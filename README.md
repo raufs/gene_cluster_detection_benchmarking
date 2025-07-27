@@ -1,4 +1,4 @@
-# Benchmarking of select tools for gene cluster (co-located sets of genes) detection
+# Benchmarking of select tools for targeted detection of gene clusters (co-located sets of genes, e.g. BGCs)
 
 Benchmarking gene cluster detection by various bioinformatic tools:
 
