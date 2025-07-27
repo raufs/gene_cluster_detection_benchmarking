@@ -1,4 +1,4 @@
-# gene_cluster_detection_benchmarking
+# Benchmarking of select tools for gene cluster (co-located sets of genes) detection
 
 Benchmarking gene cluster detection by various bioinformatic tools:
 
