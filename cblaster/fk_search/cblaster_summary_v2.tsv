@@ -1,0 +1,2004 @@
+cblaster search
+===============
+GCA_000297155.3_ASM29715v3
+==========================
+CP029159.1
+----------
+Cluster 1, score 11.7270:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start    End      Strand
+intermediate  AABT_006235  -         -         -          -         7453833  7455240  -     
+intermediate  AABT_006236  -         -         -          -         7455485  7456268  -     
+intermediate  AABT_006237  -         -         -          -         7456866  7460313  +     
+intermediate  AABT_006238  -         -         -          -         7460270  7460942  -     
+intermediate  AABT_006239  -         -         -          -         7460957  7461749  -     
+intermediate  AABT_006240  -         -         -          -         7461865  7462273  -     
+intermediate  AABT_006241  -         -         -          -         7462272  7462878  -     
+intermediate  AABT_006242  -         -         -          -         7462959  7463946  -     
+intermediate  AABT_006243  -         -         -          -         7464486  7465437  -     
+intermediate  AABT_006244  -         -         -          -         7465460  7466780  -     
+intermediate  AABT_006245  -         -         -          -         7467195  7468098  +     
+intermediate  AABT_006246  -         -         -          -         7468212  7469067  -     
+intermediate  AABT_006247  -         -         -          -         7469549  7469792  +     
+intermediate  AABT_006248  -         -         -          -         7469802  7470912  -     
+intermediate  AABT_006249  -         -         -          -         7471000  7471246  +     
+intermediate  AABT_006250  -         -         -          -         7471224  7472169  -     
+intermediate  AABT_006251  -         -         -          -         7473088  7473868  +     
+intermediate  AABT_006252  -         -         -          -         7473934  7476694  +     
+intermediate  AABT_006253  -         -         -          -         7476708  7477491  -     
+intermediate  AABT_006254  -         -         -          -         7477487  7478654  -     
+CAA60459.1    AABT_006255  48.8      59.1      0          5040      7478650  7497907  -     
+CAA60461.1    AABT_006256  56.8      97.3      0          1572      7497909  7502508  -     
+CAA60468.1    AABT_006257  71.1      98.2      8.84e-164  467       7502504  7503497  -     
+CAA60459.1    AABT_006258  49.4      68.4      0          5694      7503717  7526685  +     
+CAA60459.1    AABT_006259  55.8      35.4      0          3541      7526689  7537486  +     
+CAA60467.1    AABT_006260  77.6      100       3.94e-180  509       7537586  7538624  +     
+intermediate  AABT_006261  -         -         -          -         7538620  7539496  +     
+intermediate  AABT_006262  -         -         -          -         7539492  7539753  +     
+intermediate  AABT_006263  -         -         -          -         7539745  7540846  +     
+intermediate  AABT_006264  -         -         -          -         7540856  7541945  +     
+intermediate  AABT_006265  -         -         -          -         7541922  7542573  -     
+intermediate  AABT_006266  -         -         -          -         7542762  7543515  -     
+intermediate  AABT_006267  -         -         -          -         7543527  7544715  -     
+intermediate  AABT_006268  -         -         -          -         7544899  7546129  -     
+intermediate  AABT_006269  -         -         -          -         7546232  7546700  -     
+intermediate  AABT_006270  -         -         -          -         7546759  7547914  +     
+intermediate  AABT_006271  -         -         -          -         7547926  7549087  -     
+intermediate  AABT_006272  -         -         -          -         7549083  7550421  -     
+CAA60459.1    AABT_006273  30.6      4.2       8.6e-35    157       7550417  7552808  -     
+intermediate  AABT_006274  -         -         -          -         7552815  7554111  -     
+intermediate  AABT_006275  -         -         -          -         7554587  7555091  -     
+intermediate  AABT_006276  -         -         -          -         7555087  7555273  -     
+intermediate  AABT_006277  -         -         -          -         7555394  7556030  -     
+intermediate  AABT_006278  -         -         -          -         7556026  7556596  -     
+intermediate  AABT_006279  -         -         -          -         7556588  7556807  -     
+intermediate  AABT_006280  -         -         -          -         7557271  7558138  +     
+intermediate  AABT_006281  -         -         -          -         7558515  7559223  +     
+intermediate  AABT_006282  -         -         -          -         7559369  7560065  +     
+intermediate  AABT_006283  -         -         -          -         7560234  7560894  +     
+intermediate  AABT_006284  -         -         -          -         7560835  7561639  -     
+intermediate  AABT_006285  -         -         -          -         7561635  7562631  -     
+intermediate  AABT_006286  -         -         -          -         7562675  7563704  -     
+CAA60461.1    AABT_006287  28.4      67        1.67e-76   290       7563774  7568040  -     
+intermediate  AABT_006288  -         -         -          -         7568026  7568284  -     
+intermediate  AABT_006289  -         -         -          -         7568381  7569974  -     
+intermediate  AABT_006290  -         -         -          -         7570136  7570673  -     
+intermediate  AABT_006291  -         -         -          -         7570674  7571559  -     
+intermediate  AABT_006292  -         -         -          -         7571609  7571849  -     
+intermediate  AABT_006293  -         -         -          -         7571845  7572937  -     
+intermediate  AABT_006294  -         -         -          -         7573010  7574414  -     
+intermediate  AABT_006295  -         -         -          -         7574968  7575193  +     
+intermediate  AABT_006296  -         -         -          -         7575189  7577544  +     
+intermediate  AABT_006297  -         -         -          -         7577540  7578068  +     
+intermediate  AABT_006298  -         -         -          -         7578134  7578887  -     
+intermediate  AABT_006299  -         -         -          -         7579520  7581545  +     
+intermediate  AABT_006300  -         -         -          -         7581616  7583035  +     
+
+
+GCA_000418455.1_ASM41845v1
+==========================
+CP006567.1
+----------
+Cluster 2, score 16.7447:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start     End       Strand
+intermediate  AADR_008228  -         -         -          -         10007082  10008930  +     
+intermediate  AADR_008229  -         -         -          -         10008926  10010237  +     
+intermediate  AADR_008230  -         -         -          -         10010245  10011022  -     
+intermediate  AADR_008231  -         -         -          -         10011381  10012281  +     
+intermediate  AADR_008232  -         -         -          -         10012784  10015769  +     
+intermediate  AADR_008233  -         -         -          -         10016144  10016927  +     
+intermediate  AADR_008234  -         -         -          -         10016940  10017654  +     
+intermediate  AADR_008235  -         -         -          -         10017691  10018054  +     
+intermediate  AADR_008236  -         -         -          -         10018091  10018682  +     
+intermediate  AADR_008237  -         -         -          -         10018767  10019748  +     
+intermediate  AADR_008238  -         -         -          -         10019882  10020572  +     
+intermediate  AADR_008239  -         -         -          -         10020568  10021594  +     
+intermediate  AADR_008240  -         -         -          -         10022066  10023899  +     
+intermediate  AADR_008241  -         -         -          -         10024052  10025324  +     
+intermediate  AADR_008242  -         -         -          -         10026484  10027504  +     
+intermediate  AADR_008243  -         -         -          -         10027507  10027717  +     
+intermediate  AADR_008244  -         -         -          -         10027713  10028451  +     
+CAA60461.1    AADR_008245  35.3      67.7      1.45e-159  535       10028486  10033433  +     
+intermediate  AADR_008246  -         -         -          -         10033510  10034347  -     
+intermediate  AADR_008247  -         -         -          -         10035404  10036556  -     
+intermediate  AADR_008248  -         -         -          -         10036813  10038211  +     
+intermediate  AADR_008249  -         -         -          -         10038220  10039585  +     
+intermediate  AADR_008250  -         -         -          -         10039597  10040590  -     
+intermediate  AADR_008251  -         -         -          -         10040860  10043581  +     
+intermediate  AADR_008252  -         -         -          -         10043634  10044417  -     
+intermediate  AADR_008253  -         -         -          -         10044413  10045580  -     
+CAA60468.1    AADR_008254  95.5      100       2.74e-231  638       10045610  10046624  -     
+CAA60467.1    AADR_008255  98.5      100       2.66e-235  649       10046976  10048008  +     
+intermediate  AADR_008256  -         -         -          -         10048111  10049068  +     
+intermediate  AADR_008257  -         -         -          -         10049081  10050296  +     
+intermediate  AADR_008258  -         -         -          -         10050289  10050526  +     
+intermediate  AADR_008259  -         -         -          -         10050628  10051261  -     
+CAA60459.1    AADR_008260  46.9      59        0          4368      10051330  10066012  -     
+CAA60459.1    AADR_008261  86.2      6.7       0          1128      10066017  10070850  -     
+CAA60461.1    AADR_008262  97.9      96.6      0          2806      10070854  10075327  -     
+CAA60459.1    AADR_008263  61.3      41.5      0          4417      10075868  10091411  +     
+CAA60459.1    AADR_008264  77.9      30.5      0          4598      10091389  10101031  +     
+CAA60459.1    AADR_008265  99.5      15.9      0          3090      10101027  10107357  +     
+CAA60459.1    AADR_008266  98.3      78.8      0          15218     10107313  10131658  +     
+intermediate  AADR_008267  -         -         -          -         10132099  10132894  +     
+intermediate  AADR_008268  -         -         -          -         10132913  10133630  +     
+intermediate  AADR_008269  -         -         -          -         10133677  10134877  -     
+intermediate  AADR_008270  -         -         -          -         10134867  10135530  -     
+intermediate  AADR_008271  -         -         -          -         10135735  10137049  +     
+intermediate  AADR_008272  -         -         -          -         10137083  10138463  +     
+intermediate  AADR_008273  -         -         -          -         10138469  10139177  +     
+intermediate  AADR_008274  -         -         -          -         10139196  10139823  -     
+intermediate  AADR_008275  -         -         -          -         10139913  10141083  +     
+intermediate  AADR_008276  -         -         -          -         10141361  10142792  +     
+intermediate  AADR_008277  -         -         -          -         10142882  10144460  +     
+intermediate  AADR_008278  -         -         -          -         10144522  10146196  +     
+intermediate  AADR_008279  -         -         -          -         10146192  10147746  +     
+intermediate  AADR_008280  -         -         -          -         10147791  10148439  +     
+intermediate  AADR_008281  -         -         -          -         10148460  10149474  -     
+intermediate  AADR_008282  -         -         -          -         10149499  10150000  -     
+intermediate  AADR_008283  -         -         -          -         10150028  10150655  -     
+intermediate  AADR_008284  -         -         -          -         10151331  10152810  +     
+intermediate  AADR_008285  -         -         -          -         10152886  10154221  +     
+intermediate  AADR_008286  -         -         -          -         10154210  10155449  +     
+
+
+GCA_000938975.1_Siranensis
+==========================
+LK022848.1
+----------
+Cluster 3, score 20.2608:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start    End      Strand
+intermediate  AAOO_007749  -         -         -          -         9562870  9564076  +     
+intermediate  AAOO_007750  -         -         -          -         9564278  9566210  +     
+intermediate  AAOO_007751  -         -         -          -         9566248  9566755  -     
+intermediate  AAOO_007752  -         -         -          -         9566763  9567378  -     
+intermediate  AAOO_007753  -         -         -          -         9567575  9567809  +     
+intermediate  AAOO_007754  -         -         -          -         9569040  9571956  +     
+intermediate  AAOO_007755  -         -         -          -         9571978  9572116  -     
+intermediate  AAOO_007756  -         -         -          -         9572345  9572543  +     
+intermediate  AAOO_007757  -         -         -          -         9572539  9573322  +     
+intermediate  AAOO_007758  -         -         -          -         9573335  9574049  +     
+intermediate  AAOO_007759  -         -         -          -         9574086  9574449  +     
+intermediate  AAOO_007760  -         -         -          -         9574486  9575077  +     
+intermediate  AAOO_007761  -         -         -          -         9575280  9576261  +     
+intermediate  AAOO_007762  -         -         -          -         9576317  9577007  +     
+intermediate  AAOO_007763  -         -         -          -         9577003  9578029  +     
+intermediate  AAOO_007764  -         -         -          -         9578545  9580378  +     
+intermediate  AAOO_007765  -         -         -          -         9580483  9581755  +     
+intermediate  AAOO_007766  -         -         -          -         9581968  9582430  +     
+intermediate  AAOO_007767  -         -         -          -         9582448  9583147  +     
+intermediate  AAOO_007768  -         -         -          -         9583161  9584181  +     
+intermediate  AAOO_007769  -         -         -          -         9584184  9584394  +     
+intermediate  AAOO_007770  -         -         -          -         9584390  9585128  +     
+CAA60461.1    AAOO_007771  35.5      67.5      3.08e-163  545       9585142  9590077  +     
+intermediate  AAOO_007772  -         -         -          -         9590313  9591306  +     
+intermediate  AAOO_007773  -         -         -          -         9591320  9592688  -     
+intermediate  AAOO_007774  -         -         -          -         9592697  9594101  -     
+intermediate  AAOO_007775  -         -         -          -         9594277  9594511  +     
+intermediate  AAOO_007776  -         -         -          -         9594507  9595656  +     
+intermediate  AAOO_007777  -         -         -          -         9595860  9596112  +     
+intermediate  AAOO_007778  -         -         -          -         9596068  9596845  +     
+intermediate  AAOO_007779  -         -         -          -         9597130  9597967  +     
+intermediate  AAOO_007780  -         -         -          -         9598214  9600920  +     
+intermediate  AAOO_007781  -         -         -          -         9600973  9601744  -     
+intermediate  AAOO_007782  -         -         -          -         9601752  9602919  -     
+CAA60468.1    AAOO_007783  90.5      100       9.61e-216  599       9602949  9603963  -     
+CAA60467.1    AAOO_007784  93.9      100       3.4e-222   616       9604314  9605346  +     
+intermediate  AAOO_007785  -         -         -          -         9605561  9606518  +     
+intermediate  AAOO_007786  -         -         -          -         9606664  9607879  +     
+intermediate  AAOO_007787  -         -         -          -         9607872  9608109  +     
+intermediate  AAOO_007788  -         -         -          -         9608210  9608747  -     
+CAA60459.1    AAOO_007789  68.7      54.5      0          7340      9608910  9626955  -     
+CAA60459.1    AAOO_007790  87.6      6         0          1064      9626999  9629306  -     
+CAA60461.1    AAOO_007791  90.8      96.6      0          2645      9629310  9633801  -     
+CAA60459.1    AAOO_007792  66.9      19.5      0          2451      9634340  9642047  +     
+CAA60459.1    AAOO_007793  76.7      34.1      0          4988      9642179  9652769  +     
+CAA60459.1    AAOO_007794  81.9      2         4.12e-97   322       9652735  9653374  +     
+CAA60459.1    AAOO_007795  83        10.6      0          1720      9653337  9656697  +     
+CAA60459.1    AAOO_007796  81.9      14.1      0          2258      9656702  9661283  +     
+CAA60459.1    AAOO_007797  92        1.6       6.11e-91   303       9661279  9661810  +     
+intermediate  AAOO_007798  -         -         -          -         9661796  9661904  +     
+CAA60459.1    AAOO_007799  91        100       0          17757     9661900  9692548  +     
+intermediate  AAOO_007800  -         -         -          -         9692725  9693973  -     
+intermediate  AAOO_007801  -         -         -          -         9694154  9695717  -     
+intermediate  AAOO_007802  -         -         -          -         9695771  9696470  -     
+intermediate  AAOO_007803  -         -         -          -         9696554  9697745  -     
+intermediate  AAOO_007804  -         -         -          -         9697735  9698368  -     
+intermediate  AAOO_007805  -         -         -          -         9698563  9699838  +     
+intermediate  AAOO_007806  -         -         -          -         9699872  9701252  +     
+intermediate  AAOO_007807  -         -         -          -         9701258  9701963  +     
+intermediate  AAOO_007808  -         -         -          -         9702079  9702298  +     
+intermediate  AAOO_007809  -         -         -          -         9702384  9703191  -     
+intermediate  AAOO_007810  -         -         -          -         9703235  9704114  +     
+intermediate  AAOO_007811  -         -         -          -         9704647  9706126  +     
+intermediate  AAOO_007812  -         -         -          -         9706199  9707525  +     
+intermediate  AAOO_007813  -         -         -          -         9707514  9708768  +     
+intermediate  AAOO_007814  -         -         -          -         9708764  9710162  +     
+intermediate  AAOO_007815  -         -         -          -         9710158  9711679  +     
+intermediate  AAOO_007816  -         -         -          -         9711682  9713599  +     
+intermediate  AAOO_007817  -         -         -          -         9713595  9715791  +     
+
+
+GCA_002591335.1_ASM259133v1
+===========================
+CP023992.1
+----------
+Cluster 4, score 14.0648:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start     End       Strand
+intermediate  ABFL_008269  -         -         -          -         10377432  10378035  -     
+intermediate  ABFL_008270  -         -         -          -         10378125  10379265  +     
+intermediate  ABFL_008271  -         -         -          -         10379409  10379700  +     
+intermediate  ABFL_008272  -         -         -          -         10379764  10381366  +     
+intermediate  ABFL_008273  -         -         -          -         10381362  10382388  +     
+intermediate  ABFL_008274  -         -         -          -         10382384  10383209  +     
+intermediate  ABFL_008275  -         -         -          -         10383205  10384996  +     
+intermediate  ABFL_008276  -         -         -          -         10384992  10386246  +     
+intermediate  ABFL_008277  -         -         -          -         10386235  10387123  +     
+intermediate  ABFL_008278  -         -         -          -         10387122  10388292  +     
+intermediate  ABFL_008279  -         -         -          -         10388334  10389561  +     
+intermediate  ABFL_008280  -         -         -          -         10389557  10391522  +     
+intermediate  ABFL_008281  -         -         -          -         10391608  10392829  +     
+intermediate  ABFL_008282  -         -         -          -         10393008  10394304  +     
+intermediate  ABFL_008283  -         -         -          -         10394621  10395593  +     
+intermediate  ABFL_008284  -         -         -          -         10395661  10396216  +     
+intermediate  ABFL_008285  -         -         -          -         10396212  10397211  +     
+intermediate  ABFL_008286  -         -         -          -         10397207  10398554  +     
+intermediate  ABFL_008287  -         -         -          -         10398550  10399123  +     
+intermediate  ABFL_008288  -         -         -          -         10399346  10400528  -     
+intermediate  ABFL_008289  -         -         -          -         10400552  10401719  -     
+CAA60468.1    ABFL_008290  78.6      97        4.41e-183  517       10401753  10402809  -     
+CAA60467.1    ABFL_008291  81.3      100       1.02e-192  543       10402875  10404009  +     
+CAA60459.1    ABFL_008292  61        67.3      0          7834      10404096  10428501  -     
+CAA60461.1    ABFL_008293  72.3      98.6      0          2147      10428506  10433036  -     
+CAA60459.1    ABFL_008294  67.8      71.5      0          8972      10433266  10457071  +     
+intermediate  ABFL_008295  -         -         -          -         10457278  10459894  -     
+intermediate  ABFL_008296  -         -         -          -         10460433  10460793  +     
+intermediate  ABFL_008297  -         -         -          -         10460789  10461275  +     
+intermediate  ABFL_008298  -         -         -          -         10461121  10462366  -     
+intermediate  ABFL_008299  -         -         -          -         10462365  10463616  -     
+intermediate  ABFL_008300  -         -         -          -         10463618  10464701  -     
+intermediate  ABFL_008301  -         -         -          -         10465031  10466318  +     
+intermediate  ABFL_008302  -         -         -          -         10466551  10466803  +     
+CAA60461.1    ABFL_008303  28.4      67        1.88e-93   337       10466796  10470039  +     
+intermediate  ABFL_008304  -         -         -          -         10470035  10470815  +     
+CAA60461.1    ABFL_008305  34.4      31.5      1.35e-42   173       10470900  10472475  +     
+CAA60461.1    ABFL_008306  27        27.8      5.2e-27    125       10472536  10473886  +     
+intermediate  ABFL_008307  -         -         -          -         10473809  10475891  -     
+intermediate  ABFL_008308  -         -         -          -         10476128  10477973  -     
+intermediate  ABFL_008309  -         -         -          -         10478028  10478694  -     
+intermediate  ABFL_008310  -         -         -          -         10478729  10480694  -     
+intermediate  ABFL_008311  -         -         -          -         10480722  10482312  -     
+intermediate  ABFL_008312  -         -         -          -         10482308  10482686  -     
+intermediate  ABFL_008313  -         -         -          -         10483010  10484342  +     
+intermediate  ABFL_008314  -         -         -          -         10484334  10485417  +     
+intermediate  ABFL_008315  -         -         -          -         10485466  10486405  +     
+intermediate  ABFL_008316  -         -         -          -         10486401  10486791  +     
+intermediate  ABFL_008317  -         -         -          -         10486787  10487822  +     
+intermediate  ABFL_008318  -         -         -          -         10487808  10488561  +     
+intermediate  ABFL_008319  -         -         -          -         10488607  10489378  +     
+intermediate  ABFL_008320  -         -         -          -         10489387  10490098  +     
+intermediate  ABFL_008321  -         -         -          -         10490158  10491109  +     
+intermediate  ABFL_008322  -         -         -          -         10491450  10492173  +     
+intermediate  ABFL_008323  -         -         -          -         10492217  10492802  +     
+intermediate  ABFL_008324  -         -         -          -         10493003  10493804  -     
+intermediate  ABFL_008325  -         -         -          -         10493815  10494628  -     
+intermediate  ABFL_008326  -         -         -          -         10494816  10495335  +     
+intermediate  ABFL_008327  -         -         -          -         10495414  10496482  +     
+intermediate  ABFL_008328  -         -         -          -         10496495  10497326  -     
+intermediate  ABFL_008329  -         -         -          -         10497339  10498164  -     
+intermediate  ABFL_008330  -         -         -          -         10498336  10498615  -     
+
+
+GCA_002812405.1_ASM281240v1
+===========================
+CP025018.1
+----------
+Cluster 5, score 14.0691:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start   End     Strand
+intermediate  ABGJ_000323  -         -         -          -         333973  334252  +     
+intermediate  ABGJ_000324  -         -         -          -         334238  334907  +     
+intermediate  ABGJ_000325  -         -         -          -         334920  335310  -     
+intermediate  ABGJ_000326  -         -         -          -         335370  335988  -     
+intermediate  ABGJ_000327  -         -         -          -         336067  336526  -     
+intermediate  ABGJ_000328  -         -         -          -         336708  337590  +     
+intermediate  ABGJ_000329  -         -         -          -         337601  338402  +     
+intermediate  ABGJ_000330  -         -         -          -         338603  339188  -     
+intermediate  ABGJ_000331  -         -         -          -         339232  339955  -     
+intermediate  ABGJ_000332  -         -         -          -         340297  341248  -     
+intermediate  ABGJ_000333  -         -         -          -         341308  342019  -     
+intermediate  ABGJ_000334  -         -         -          -         342028  342799  -     
+intermediate  ABGJ_000335  -         -         -          -         342845  343598  -     
+intermediate  ABGJ_000336  -         -         -          -         343584  344619  -     
+intermediate  ABGJ_000337  -         -         -          -         344615  345005  -     
+intermediate  ABGJ_000338  -         -         -          -         345001  345940  -     
+intermediate  ABGJ_000339  -         -         -          -         345989  347072  -     
+intermediate  ABGJ_000340  -         -         -          -         347064  348396  -     
+intermediate  ABGJ_000341  -         -         -          -         348720  349098  +     
+intermediate  ABGJ_000342  -         -         -          -         349094  350684  +     
+intermediate  ABGJ_000343  -         -         -          -         350712  352677  +     
+intermediate  ABGJ_000344  -         -         -          -         352712  353378  +     
+intermediate  ABGJ_000345  -         -         -          -         353433  355278  +     
+intermediate  ABGJ_000346  -         -         -          -         355542  357624  +     
+CAA60461.1    ABGJ_000347  27.2      27.8      6.57e-28   128       357547  358897  -     
+CAA60461.1    ABGJ_000348  34.3      31.6      6e-42      171       358958  360533  -     
+intermediate  ABGJ_000349  -         -         -          -         360618  361398  -     
+CAA60461.1    ABGJ_000350  28.6      67        1.66e-94   340       361394  364637  -     
+intermediate  ABGJ_000351  -         -         -          -         364630  364882  -     
+intermediate  ABGJ_000352  -         -         -          -         365113  366400  -     
+intermediate  ABGJ_000353  -         -         -          -         366730  367813  +     
+intermediate  ABGJ_000354  -         -         -          -         367815  369066  +     
+intermediate  ABGJ_000355  -         -         -          -         369065  370310  +     
+intermediate  ABGJ_000356  -         -         -          -         370156  370642  -     
+intermediate  ABGJ_000357  -         -         -          -         370638  370998  -     
+intermediate  ABGJ_000358  -         -         -          -         371537  374153  +     
+CAA60459.1    ABGJ_000359  67.8      71.5      0          8997      374360  398168  -     
+CAA60461.1    ABGJ_000360  72.4      98.6      0          2151      398398  402928  +     
+CAA60459.1    ABGJ_000361  61        67.3      0          7849      402933  427350  +     
+CAA60467.1    ABGJ_000362  81.3      100       3.19e-193  543       427438  428476  -     
+CAA60468.1    ABGJ_000363  77.7      97        8.32e-181  512       428581  429694  +     
+intermediate  ABGJ_000364  -         -         -          -         429728  430895  +     
+intermediate  ABGJ_000365  -         -         -          -         430919  432101  +     
+intermediate  ABGJ_000366  -         -         -          -         432193  432556  +     
+intermediate  ABGJ_000367  -         -         -          -         432545  432896  -     
+intermediate  ABGJ_000368  -         -         -          -         432892  434239  -     
+intermediate  ABGJ_000369  -         -         -          -         434235  435234  -     
+intermediate  ABGJ_000370  -         -         -          -         435230  435857  -     
+intermediate  ABGJ_000371  -         -         -          -         435853  436330  -     
+intermediate  ABGJ_000372  -         -         -          -         436281  436824  -     
+intermediate  ABGJ_000373  -         -         -          -         437141  438437  -     
+intermediate  ABGJ_000374  -         -         -          -         438616  439924  -     
+intermediate  ABGJ_000375  -         -         -          -         439923  441888  -     
+intermediate  ABGJ_000376  -         -         -          -         441884  443111  -     
+intermediate  ABGJ_000377  -         -         -          -         443158  444328  -     
+intermediate  ABGJ_000378  -         -         -          -         444327  445215  -     
+intermediate  ABGJ_000379  -         -         -          -         445204  446458  -     
+intermediate  ABGJ_000380  -         -         -          -         446454  448245  -     
+intermediate  ABGJ_000381  -         -         -          -         448241  449066  -     
+intermediate  ABGJ_000382  -         -         -          -         449062  450088  -     
+intermediate  ABGJ_000383  -         -         -          -         450084  451686  -     
+intermediate  ABGJ_000384  -         -         -          -         451750  452041  -     
+intermediate  ABGJ_000385  -         -         -          -         452185  453325  -     
+intermediate  ABGJ_000386  -         -         -          -         453415  454018  +     
+
+
+GCA_002891865.1_ASM289186v1
+===========================
+LJIW01000002.1
+--------------
+Cluster 6, score 13.0341:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start   End     Strand
+intermediate  ABGV_005265  -         -         -          -         354204  354483  +     
+intermediate  ABGV_005266  -         -         -          -         354655  355480  +     
+intermediate  ABGV_005267  -         -         -          -         355493  356324  +     
+intermediate  ABGV_005268  -         -         -          -         356337  357405  -     
+intermediate  ABGV_005269  -         -         -          -         357484  358003  -     
+intermediate  ABGV_005270  -         -         -          -         358191  359007  +     
+intermediate  ABGV_005271  -         -         -          -         359018  359819  +     
+intermediate  ABGV_005272  -         -         -          -         360020  360605  -     
+intermediate  ABGV_005273  -         -         -          -         360649  361372  -     
+intermediate  ABGV_005274  -         -         -          -         361713  362664  -     
+intermediate  ABGV_005275  -         -         -          -         362724  363435  -     
+intermediate  ABGV_005276  -         -         -          -         363444  364215  -     
+intermediate  ABGV_005277  -         -         -          -         364261  365014  -     
+intermediate  ABGV_005278  -         -         -          -         365000  366035  -     
+intermediate  ABGV_005279  -         -         -          -         366031  366421  -     
+intermediate  ABGV_005280  -         -         -          -         366417  367356  -     
+intermediate  ABGV_005281  -         -         -          -         367405  368488  -     
+intermediate  ABGV_005282  -         -         -          -         368480  369812  -     
+intermediate  ABGV_005283  -         -         -          -         370136  370514  +     
+intermediate  ABGV_005284  -         -         -          -         370510  372100  +     
+intermediate  ABGV_005285  -         -         -          -         372128  374093  +     
+intermediate  ABGV_005286  -         -         -          -         374128  374794  +     
+intermediate  ABGV_005287  -         -         -          -         374849  376694  +     
+intermediate  ABGV_005288  -         -         -          -         376766  378848  +     
+CAA60461.1    ABGV_005289  27.2      27.8      8.83e-28   127       378771  380121  -     
+CAA60461.1    ABGV_005290  34.3      31.6      1.09e-41   171       380182  381757  -     
+intermediate  ABGV_005291  -         -         -          -         381842  382622  -     
+intermediate  ABGV_005292  -         -         -          -         382618  385861  -     
+intermediate  ABGV_005293  -         -         -          -         385854  386106  -     
+intermediate  ABGV_005294  -         -         -          -         386339  387626  -     
+intermediate  ABGV_005295  -         -         -          -         387956  389039  +     
+intermediate  ABGV_005296  -         -         -          -         389041  390292  +     
+intermediate  ABGV_005297  -         -         -          -         390291  391536  +     
+intermediate  ABGV_005298  -         -         -          -         391382  391868  -     
+intermediate  ABGV_005299  -         -         -          -         391864  392224  -     
+intermediate  ABGV_005300  -         -         -          -         392763  395379  +     
+CAA60459.1    ABGV_005301  67.6      71.5      0          8975      395587  419413  -     
+CAA60461.1    ABGV_005302  72.4      98.6      0          2148      419643  424173  +     
+CAA60459.1    ABGV_005303  61.1      67.3      0          7864      424178  448577  +     
+CAA60467.1    ABGV_005304  81.3      100       3.57e-193  544       448664  449798  -     
+CAA60468.1    ABGV_005305  78.3      97        8.32e-181  512       449807  450920  +     
+intermediate  ABGV_005306  -         -         -          -         450954  452121  +     
+intermediate  ABGV_005307  -         -         -          -         452145  453327  +     
+intermediate  ABGV_005308  -         -         -          -         453550  454123  -     
+intermediate  ABGV_005309  -         -         -          -         454119  455466  -     
+intermediate  ABGV_005310  -         -         -          -         455462  456461  -     
+intermediate  ABGV_005311  -         -         -          -         456457  457084  -     
+intermediate  ABGV_005312  -         -         -          -         457080  458052  -     
+intermediate  ABGV_005313  -         -         -          -         458369  459665  -     
+intermediate  ABGV_005314  -         -         -          -         459844  461065  -     
+intermediate  ABGV_005315  -         -         -          -         461151  463116  -     
+intermediate  ABGV_005316  -         -         -          -         463112  464339  -     
+intermediate  ABGV_005317  -         -         -          -         464361  465531  -     
+intermediate  ABGV_005318  -         -         -          -         465530  466418  -     
+intermediate  ABGV_005319  -         -         -          -         466407  467661  -     
+intermediate  ABGV_005320  -         -         -          -         467657  469448  -     
+intermediate  ABGV_005321  -         -         -          -         469444  470269  -     
+intermediate  ABGV_005322  -         -         -          -         470265  471291  -     
+intermediate  ABGV_005323  -         -         -          -         471287  472700  -     
+intermediate  ABGV_005324  -         -         -          -         472953  473244  -     
+intermediate  ABGV_005325  -         -         -          -         473388  474528  -     
+intermediate  ABGV_005326  -         -         -          -         474618  475221  +     
+
+
+GCA_003675955.1_ASM367595v1
+===========================
+QYCY01000001.1
+--------------
+Cluster 7, score 14.2739:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start   End     Strand
+intermediate  ABMM_000570  -         -         -          -         655235  656474  -     
+intermediate  ABMM_000571  -         -         -          -         656463  657798  -     
+intermediate  ABMM_000572  -         -         -          -         657874  659353  -     
+intermediate  ABMM_000573  -         -         -          -         660029  660656  +     
+intermediate  ABMM_000574  -         -         -          -         660684  661185  +     
+intermediate  ABMM_000575  -         -         -          -         661210  662224  +     
+intermediate  ABMM_000576  -         -         -          -         662245  662893  -     
+intermediate  ABMM_000577  -         -         -          -         662938  664492  -     
+intermediate  ABMM_000578  -         -         -          -         664488  666162  -     
+intermediate  ABMM_000579  -         -         -          -         666224  667802  -     
+intermediate  ABMM_000580  -         -         -          -         667892  669323  -     
+intermediate  ABMM_000581  -         -         -          -         669601  670771  -     
+intermediate  ABMM_000582  -         -         -          -         670861  671488  +     
+intermediate  ABMM_000583  -         -         -          -         671507  672215  -     
+intermediate  ABMM_000584  -         -         -          -         672221  673601  -     
+intermediate  ABMM_000585  -         -         -          -         673635  674949  -     
+intermediate  ABMM_000586  -         -         -          -         675154  675817  +     
+intermediate  ABMM_000587  -         -         -          -         675807  677007  +     
+intermediate  ABMM_000588  -         -         -          -         677054  677771  -     
+intermediate  ABMM_000589  -         -         -          -         677790  678585  -     
+CAA60459.1    ABMM_000590  99.1      99.9      0          19324     679026  709668  -     
+CAA60459.1    ABMM_000591  75        71.1      0          10522     709691  735380  -     
+CAA60461.1    ABMM_000592  97.9      96.6      0          2806      735921  740394  +     
+CAA60459.1    ABMM_000593  72.7      59.3      0          8265      740398  759196  +     
+intermediate  ABMM_000594  -         -         -          -         759265  759898  +     
+intermediate  ABMM_000595  -         -         -          -         760000  760237  -     
+intermediate  ABMM_000596  -         -         -          -         760230  761445  -     
+intermediate  ABMM_000597  -         -         -          -         761458  762415  -     
+CAA60467.1    ABMM_000598  98.5      100       2.66e-235  649       762518  763550  -     
+CAA60468.1    ABMM_000599  95.5      100       2.74e-231  638       763902  764916  +     
+intermediate  ABMM_000600  -         -         -          -         764946  766113  +     
+intermediate  ABMM_000601  -         -         -          -         766109  766892  +     
+intermediate  ABMM_000602  -         -         -          -         766945  769666  -     
+intermediate  ABMM_000603  -         -         -          -         769936  770929  +     
+intermediate  ABMM_000604  -         -         -          -         770941  772306  -     
+intermediate  ABMM_000605  -         -         -          -         772315  773713  -     
+intermediate  ABMM_000606  -         -         -          -         773970  775122  +     
+intermediate  ABMM_000607  -         -         -          -         775271  776225  +     
+intermediate  ABMM_000608  -         -         -          -         776290  777127  +     
+CAA60461.1    ABMM_000609  35.3      67.7      1.45e-159  535       777204  782151  -     
+intermediate  ABMM_000610  -         -         -          -         782186  782924  -     
+intermediate  ABMM_000611  -         -         -          -         782920  783130  -     
+intermediate  ABMM_000612  -         -         -          -         783133  784153  -     
+intermediate  ABMM_000613  -         -         -          -         784167  785121  -     
+intermediate  ABMM_000614  -         -         -          -         785336  786608  -     
+intermediate  ABMM_000615  -         -         -          -         786761  788594  -     
+intermediate  ABMM_000616  -         -         -          -         789066  790092  -     
+intermediate  ABMM_000617  -         -         -          -         790088  790778  -     
+intermediate  ABMM_000618  -         -         -          -         790912  791893  -     
+intermediate  ABMM_000619  -         -         -          -         791978  792569  -     
+intermediate  ABMM_000620  -         -         -          -         792606  792969  -     
+intermediate  ABMM_000621  -         -         -          -         793006  793720  -     
+intermediate  ABMM_000622  -         -         -          -         793733  794516  -     
+intermediate  ABMM_000623  -         -         -          -         794891  797876  -     
+intermediate  ABMM_000624  -         -         -          -         798379  799279  -     
+intermediate  ABMM_000625  -         -         -          -         799638  800415  +     
+intermediate  ABMM_000626  -         -         -          -         800423  801734  -     
+intermediate  ABMM_000627  -         -         -          -         801730  803578  -     
+
+
+GCA_003932715.1_ASM393271v1
+===========================
+CP020700.1
+----------
+Cluster 8, score 11.7270:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start   End     Strand
+intermediate  ABNT_000303  -         -         -          -         577720  579139  -     
+intermediate  ABNT_000304  -         -         -          -         579210  581235  -     
+intermediate  ABNT_000305  -         -         -          -         581868  582621  +     
+intermediate  ABNT_000306  -         -         -          -         582687  583215  -     
+intermediate  ABNT_000307  -         -         -          -         583211  585566  -     
+intermediate  ABNT_000308  -         -         -          -         585562  585787  -     
+intermediate  ABNT_000309  -         -         -          -         586341  587745  +     
+intermediate  ABNT_000310  -         -         -          -         587818  588910  +     
+intermediate  ABNT_000311  -         -         -          -         588906  589146  +     
+intermediate  ABNT_000312  -         -         -          -         589196  590081  +     
+intermediate  ABNT_000313  -         -         -          -         590082  590619  +     
+intermediate  ABNT_000314  -         -         -          -         590781  592374  +     
+intermediate  ABNT_000315  -         -         -          -         592471  592729  +     
+CAA60461.1    ABNT_000316  28.4      67        1.67e-76   290       592715  596981  +     
+intermediate  ABNT_000317  -         -         -          -         597051  598080  +     
+intermediate  ABNT_000318  -         -         -          -         598124  599120  +     
+intermediate  ABNT_000319  -         -         -          -         599116  599920  +     
+intermediate  ABNT_000320  -         -         -          -         599861  600521  -     
+intermediate  ABNT_000321  -         -         -          -         600690  601386  -     
+intermediate  ABNT_000322  -         -         -          -         601532  602240  -     
+intermediate  ABNT_000323  -         -         -          -         602617  603484  -     
+intermediate  ABNT_000324  -         -         -          -         603948  604167  +     
+intermediate  ABNT_000325  -         -         -          -         604159  604729  +     
+intermediate  ABNT_000326  -         -         -          -         604725  605361  +     
+intermediate  ABNT_000327  -         -         -          -         605482  605668  +     
+intermediate  ABNT_000328  -         -         -          -         605664  606168  +     
+intermediate  ABNT_000329  -         -         -          -         606644  607940  +     
+CAA60459.1    ABNT_000330  30.6      4.2       8.6e-35    157       607947  610338  +     
+intermediate  ABNT_000331  -         -         -          -         610334  611672  +     
+intermediate  ABNT_000332  -         -         -          -         611668  612829  +     
+intermediate  ABNT_000333  -         -         -          -         612841  613996  -     
+intermediate  ABNT_000334  -         -         -          -         614055  614523  +     
+intermediate  ABNT_000335  -         -         -          -         614626  615856  +     
+intermediate  ABNT_000336  -         -         -          -         616040  617228  +     
+intermediate  ABNT_000337  -         -         -          -         617240  617993  +     
+intermediate  ABNT_000338  -         -         -          -         618182  618833  +     
+intermediate  ABNT_000339  -         -         -          -         618810  619899  -     
+intermediate  ABNT_000340  -         -         -          -         619909  621010  -     
+intermediate  ABNT_000341  -         -         -          -         621002  621263  -     
+intermediate  ABNT_000342  -         -         -          -         621259  622135  -     
+CAA60467.1    ABNT_000343  77.6      100       3.94e-180  509       622131  623169  -     
+CAA60459.1    ABNT_000344  55.8      35.4      0          3541      623269  634066  -     
+CAA60459.1    ABNT_000345  49.4      68.4      0          5694      634070  657038  -     
+CAA60468.1    ABNT_000346  71.1      98.2      8.84e-164  467       657258  658251  +     
+CAA60461.1    ABNT_000347  56.8      97.3      0          1572      658247  662846  +     
+CAA60459.1    ABNT_000348  48.8      59.1      0          5040      662848  682105  +     
+intermediate  ABNT_000349  -         -         -          -         682101  683268  +     
+intermediate  ABNT_000350  -         -         -          -         683264  684047  +     
+intermediate  ABNT_000351  -         -         -          -         684061  686821  -     
+intermediate  ABNT_000352  -         -         -          -         686887  687667  -     
+intermediate  ABNT_000353  -         -         -          -         688586  689531  +     
+intermediate  ABNT_000354  -         -         -          -         689509  689755  -     
+intermediate  ABNT_000355  -         -         -          -         689843  690953  +     
+intermediate  ABNT_000356  -         -         -          -         690963  691206  -     
+intermediate  ABNT_000357  -         -         -          -         691688  692543  +     
+intermediate  ABNT_000358  -         -         -          -         692657  693560  -     
+intermediate  ABNT_000359  -         -         -          -         693975  695295  +     
+intermediate  ABNT_000360  -         -         -          -         695318  696269  +     
+intermediate  ABNT_000361  -         -         -          -         696809  697796  +     
+intermediate  ABNT_000362  -         -         -          -         697877  698483  +     
+intermediate  ABNT_000363  -         -         -          -         698482  698890  +     
+intermediate  ABNT_000364  -         -         -          -         699006  699798  +     
+intermediate  ABNT_000365  -         -         -          -         699813  700485  +     
+intermediate  ABNT_000366  -         -         -          -         700442  703889  -     
+intermediate  ABNT_000367  -         -         -          -         704487  705270  +     
+intermediate  ABNT_000368  -         -         -          -         705515  706922  +     
+
+
+GCA_004295505.1_ASM429550v1
+===========================
+SGFG01000008.1
+--------------
+Cluster 9, score 11.7270:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start   End     Strand
+intermediate  ABRL_006060  -         -         -          -         54775   56194   -     
+intermediate  ABRL_006061  -         -         -          -         56265   58290   -     
+intermediate  ABRL_006062  -         -         -          -         58923   59676   +     
+intermediate  ABRL_006063  -         -         -          -         59742   60270   -     
+intermediate  ABRL_006064  -         -         -          -         60266   62621   -     
+intermediate  ABRL_006065  -         -         -          -         62617   62842   -     
+intermediate  ABRL_006066  -         -         -          -         63396   64800   +     
+intermediate  ABRL_006067  -         -         -          -         64873   65965   +     
+intermediate  ABRL_006068  -         -         -          -         65961   66201   +     
+intermediate  ABRL_006069  -         -         -          -         66251   67136   +     
+intermediate  ABRL_006070  -         -         -          -         67137   67674   +     
+intermediate  ABRL_006071  -         -         -          -         67836   69429   +     
+intermediate  ABRL_006072  -         -         -          -         69526   69784   +     
+CAA60461.1    ABRL_006073  28.4      67        1.67e-76   290       69770   74036   +     
+intermediate  ABRL_006074  -         -         -          -         74106   75135   +     
+intermediate  ABRL_006075  -         -         -          -         75179   76175   +     
+intermediate  ABRL_006076  -         -         -          -         76171   76975   +     
+intermediate  ABRL_006077  -         -         -          -         76916   77609   -     
+intermediate  ABRL_006078  -         -         -          -         77745   78441   -     
+intermediate  ABRL_006079  -         -         -          -         78587   79295   -     
+intermediate  ABRL_006080  -         -         -          -         79672   80539   -     
+intermediate  ABRL_006081  -         -         -          -         81003   81222   +     
+intermediate  ABRL_006082  -         -         -          -         81214   81784   +     
+intermediate  ABRL_006083  -         -         -          -         81780   82416   +     
+intermediate  ABRL_006084  -         -         -          -         82537   82723   +     
+intermediate  ABRL_006085  -         -         -          -         82719   83223   +     
+intermediate  ABRL_006086  -         -         -          -         83699   84995   +     
+CAA60459.1    ABRL_006087  30.6      4.2       8.6e-35    157       85002   87393   +     
+intermediate  ABRL_006088  -         -         -          -         87389   88727   +     
+intermediate  ABRL_006089  -         -         -          -         88723   89884   +     
+intermediate  ABRL_006090  -         -         -          -         89896   91051   -     
+intermediate  ABRL_006091  -         -         -          -         91110   91578   +     
+intermediate  ABRL_006092  -         -         -          -         91681   92911   +     
+intermediate  ABRL_006093  -         -         -          -         93095   94283   +     
+intermediate  ABRL_006094  -         -         -          -         94295   95048   +     
+intermediate  ABRL_006095  -         -         -          -         95237   95888   +     
+intermediate  ABRL_006096  -         -         -          -         95865   96954   -     
+intermediate  ABRL_006097  -         -         -          -         96964   98065   -     
+intermediate  ABRL_006098  -         -         -          -         98057   98318   -     
+intermediate  ABRL_006099  -         -         -          -         98314   99190   -     
+CAA60467.1    ABRL_006100  77.6      100       3.94e-180  509       99186   100224  -     
+CAA60459.1    ABRL_006101  55.8      35.4      0          3541      100324  111121  -     
+CAA60459.1    ABRL_006102  49.4      68.4      0          5694      111125  134093  -     
+CAA60468.1    ABRL_006103  71.1      98.2      8.84e-164  467       134313  135306  +     
+CAA60461.1    ABRL_006104  56.8      97.3      0          1572      135302  139901  +     
+CAA60459.1    ABRL_006105  48.8      59.1      0          5040      139903  159160  +     
+intermediate  ABRL_006106  -         -         -          -         159156  160323  +     
+intermediate  ABRL_006107  -         -         -          -         160319  161102  +     
+intermediate  ABRL_006108  -         -         -          -         161116  163876  -     
+intermediate  ABRL_006109  -         -         -          -         163942  164722  -     
+intermediate  ABRL_006110  -         -         -          -         165641  166586  +     
+intermediate  ABRL_006111  -         -         -          -         166564  166810  -     
+intermediate  ABRL_006112  -         -         -          -         166898  168008  +     
+intermediate  ABRL_006113  -         -         -          -         168018  168261  -     
+intermediate  ABRL_006114  -         -         -          -         168743  169598  +     
+intermediate  ABRL_006115  -         -         -          -         169712  170615  -     
+intermediate  ABRL_006116  -         -         -          -         171030  172350  +     
+intermediate  ABRL_006117  -         -         -          -         172373  173324  +     
+intermediate  ABRL_006118  -         -         -          -         173864  174851  +     
+intermediate  ABRL_006119  -         -         -          -         174932  175538  +     
+intermediate  ABRL_006120  -         -         -          -         175537  175945  +     
+intermediate  ABRL_006121  -         -         -          -         176061  176853  +     
+intermediate  ABRL_006122  -         -         -          -         176868  177540  +     
+intermediate  ABRL_006123  -         -         -          -         177497  180944  -     
+intermediate  ABRL_006124  -         -         -          -         181542  182325  +     
+intermediate  ABRL_006125  -         -         -          -         182570  183977  +     
+
+
+GCA_006974005.1_ASM697400v1
+===========================
+CP029823.1
+----------
+Cluster 10, score 15.0680:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start   End     Strand
+intermediate  ABUR_000186  -         -         -          -         195999  196278  +     
+intermediate  ABUR_000187  -         -         -          -         196450  197275  +     
+intermediate  ABUR_000188  -         -         -          -         197288  198119  +     
+intermediate  ABUR_000189  -         -         -          -         198132  199200  -     
+intermediate  ABUR_000190  -         -         -          -         199279  199798  -     
+intermediate  ABUR_000191  -         -         -          -         200076  200799  +     
+intermediate  ABUR_000192  -         -         -          -         200810  201611  +     
+intermediate  ABUR_000193  -         -         -          -         201812  202397  -     
+intermediate  ABUR_000194  -         -         -          -         202441  203164  -     
+intermediate  ABUR_000195  -         -         -          -         203505  204456  -     
+intermediate  ABUR_000196  -         -         -          -         204516  205227  -     
+intermediate  ABUR_000197  -         -         -          -         205236  206007  -     
+intermediate  ABUR_000198  -         -         -          -         206053  206806  -     
+intermediate  ABUR_000199  -         -         -          -         206792  207827  -     
+intermediate  ABUR_000200  -         -         -          -         207823  208213  -     
+intermediate  ABUR_000201  -         -         -          -         208209  209148  -     
+intermediate  ABUR_000202  -         -         -          -         209197  210280  -     
+intermediate  ABUR_000203  -         -         -          -         210272  211604  -     
+intermediate  ABUR_000204  -         -         -          -         211928  212306  +     
+intermediate  ABUR_000205  -         -         -          -         212302  213892  +     
+intermediate  ABUR_000206  -         -         -          -         213920  215885  +     
+intermediate  ABUR_000207  -         -         -          -         215881  216586  +     
+intermediate  ABUR_000208  -         -         -          -         216641  218486  +     
+intermediate  ABUR_000209  -         -         -          -         218723  220805  +     
+CAA60461.1    ABUR_000210  27        27.8      5.2e-27    125       220728  222078  -     
+CAA60461.1    ABUR_000211  34.4      31.5      1.35e-42   173       222139  223714  -     
+intermediate  ABUR_000212  -         -         -          -         223799  224579  -     
+CAA60461.1    ABUR_000213  28.4      67        1.88e-93   337       224575  227818  -     
+intermediate  ABUR_000214  -         -         -          -         227811  228063  -     
+intermediate  ABUR_000215  -         -         -          -         228296  229583  -     
+intermediate  ABUR_000216  -         -         -          -         229913  230996  +     
+intermediate  ABUR_000217  -         -         -          -         230998  232249  +     
+intermediate  ABUR_000218  -         -         -          -         232248  233493  +     
+intermediate  ABUR_000219  -         -         -          -         233339  233825  -     
+intermediate  ABUR_000220  -         -         -          -         233821  234181  -     
+intermediate  ABUR_000221  -         -         -          -         234720  237336  +     
+CAA60459.1    ABUR_000222  67.8      71.5      0          8972      237543  261348  -     
+CAA60461.1    ABUR_000223  72.3      98.6      0          2147      261578  266108  +     
+CAA60459.1    ABUR_000224  88.3      1.6       4.14e-88   296       266113  266698  +     
+CAA60459.1    ABUR_000225  60.5      65.7      0          7570      266694  290517  +     
+CAA60467.1    ABUR_000226  81.3      100       1.02e-192  543       290604  291738  -     
+CAA60468.1    ABUR_000227  78.6      97        4.41e-183  517       291804  292860  +     
+intermediate  ABUR_000228  -         -         -          -         292894  294061  +     
+intermediate  ABUR_000229  -         -         -          -         294085  295267  +     
+intermediate  ABUR_000230  -         -         -          -         295490  296063  -     
+intermediate  ABUR_000231  -         -         -          -         296059  297406  -     
+intermediate  ABUR_000232  -         -         -          -         297402  298401  -     
+intermediate  ABUR_000233  -         -         -          -         298397  298952  -     
+intermediate  ABUR_000234  -         -         -          -         299020  299992  -     
+intermediate  ABUR_000235  -         -         -          -         300309  301605  -     
+intermediate  ABUR_000236  -         -         -          -         301784  303005  -     
+intermediate  ABUR_000237  -         -         -          -         303091  305056  -     
+intermediate  ABUR_000238  -         -         -          -         305052  306279  -     
+intermediate  ABUR_000239  -         -         -          -         306321  307491  -     
+intermediate  ABUR_000240  -         -         -          -         307490  308378  -     
+intermediate  ABUR_000241  -         -         -          -         308367  309621  -     
+intermediate  ABUR_000242  -         -         -          -         309617  311408  -     
+intermediate  ABUR_000243  -         -         -          -         311404  312229  -     
+intermediate  ABUR_000244  -         -         -          -         312225  313251  -     
+intermediate  ABUR_000245  -         -         -          -         313247  314849  -     
+intermediate  ABUR_000246  -         -         -          -         314913  315204  -     
+intermediate  ABUR_000247  -         -         -          -         315348  316488  -     
+intermediate  ABUR_000248  -         -         -          -         316578  317181  +     
+
+
+GCA_007856155.1_ASM785615v1
+===========================
+CP042266.1
+----------
+Cluster 11, score 10.6932:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start    End      Strand
+intermediate  ABVV_006288  -         -         -          -         7656217  7656979  -     
+intermediate  ABVV_006289  -         -         -          -         7657001  7657361  -     
+intermediate  ABVV_006290  -         -         -          -         7657478  7658375  +     
+intermediate  ABVV_006291  -         -         -          -         7658765  7659839  -     
+intermediate  ABVV_006292  -         -         -          -         7660130  7660829  -     
+intermediate  ABVV_006293  -         -         -          -         7660849  7661434  +     
+intermediate  ABVV_006294  -         -         -          -         7661735  7662026  +     
+intermediate  ABVV_006295  -         -         -          -         7662481  7662697  +     
+intermediate  ABVV_006296  -         -         -          -         7663420  7664356  +     
+intermediate  ABVV_006297  -         -         -          -         7664422  7664665  +     
+intermediate  ABVV_006298  -         -         -          -         7664774  7664939  +     
+intermediate  ABVV_006299  -         -         -          -         7664941  7665982  +     
+intermediate  ABVV_006300  -         -         -          -         7665978  7666983  +     
+intermediate  ABVV_006301  -         -         -          -         7666979  7668158  +     
+intermediate  ABVV_006302  -         -         -          -         7668154  7669231  +     
+intermediate  ABVV_006303  -         -         -          -         7669227  7670325  +     
+intermediate  ABVV_006304  -         -         -          -         7670314  7671505  +     
+intermediate  ABVV_006305  -         -         -          -         7671616  7672696  +     
+intermediate  ABVV_006306  -         -         -          -         7673050  7674397  +     
+intermediate  ABVV_006307  -         -         -          -         7674443  7674596  -     
+intermediate  ABVV_006308  -         -         -          -         7675434  7676202  +     
+intermediate  ABVV_006309  -         -         -          -         7676280  7679040  +     
+intermediate  ABVV_006310  -         -         -          -         7679055  7679829  -     
+intermediate  ABVV_006311  -         -         -          -         7679834  7681001  -     
+CAA60459.1    ABVV_006312  49        59.1      0          5068      7680997  7700188  -     
+CAA60461.1    ABVV_006313  56.6      97.3      0          1575      7700190  7704765  -     
+CAA60468.1    ABVV_006314  70.5      99.1      1.28e-161  462       7704761  7705760  -     
+CAA60459.1    ABVV_006315  48.9      68        0          5574      7705974  7728711  +     
+CAA60459.1    ABVV_006316  55.3      35.4      0          3509      7728715  7739503  +     
+CAA60467.1    ABVV_006317  77.8      100       2.27e-179  508       7739640  7740678  +     
+intermediate  ABVV_006318  -         -         -          -         7740674  7741550  +     
+intermediate  ABVV_006319  -         -         -          -         7741546  7741819  +     
+intermediate  ABVV_006320  -         -         -          -         7741811  7742912  +     
+intermediate  ABVV_006321  -         -         -          -         7742922  7744011  +     
+intermediate  ABVV_006322  -         -         -          -         7743988  7744639  -     
+intermediate  ABVV_006323  -         -         -          -         7744791  7745952  -     
+intermediate  ABVV_006324  -         -         -          -         7745948  7747286  -     
+CAA60459.1    ABVV_006325  31        4.2       9.71e-37   163       7747282  7749682  -     
+CAA60459.1    ABVV_006326  30.7      2.5       5.42e-09   72.8      7749689  7750985  -     
+intermediate  ABVV_006327  -         -         -          -         7751472  7752333  -     
+intermediate  ABVV_006328  -         -         -          -         7752430  7752994  -     
+intermediate  ABVV_006329  -         -         -          -         7753259  7754237  +     
+intermediate  ABVV_006330  -         -         -          -         7754356  7754779  -     
+intermediate  ABVV_006331  -         -         -          -         7755028  7755655  +     
+intermediate  ABVV_006332  -         -         -          -         7755813  7756899  -     
+intermediate  ABVV_006333  -         -         -          -         7756999  7757584  +     
+intermediate  ABVV_006334  -         -         -          -         7757854  7759075  +     
+intermediate  ABVV_006335  -         -         -          -         7759296  7759950  +     
+intermediate  ABVV_006336  -         -         -          -         7760143  7760818  +     
+intermediate  ABVV_006337  -         -         -          -         7760814  7762263  +     
+intermediate  ABVV_006338  -         -         -          -         7762329  7763430  -     
+intermediate  ABVV_006339  -         -         -          -         7763874  7764825  +     
+intermediate  ABVV_006340  -         -         -          -         7764895  7766089  +     
+intermediate  ABVV_006341  -         -         -          -         7766102  7766855  +     
+intermediate  ABVV_006342  -         -         -          -         7767071  7768322  +     
+intermediate  ABVV_006343  -         -         -          -         7769061  7769442  +     
+intermediate  ABVV_006344  -         -         -          -         7769585  7769987  +     
+intermediate  ABVV_006345  -         -         -          -         7770165  7770657  +     
+intermediate  ABVV_006346  -         -         -          -         7771046  7771778  -     
+intermediate  ABVV_006347  -         -         -          -         7772426  7773536  +     
+intermediate  ABVV_006348  -         -         -          -         7773659  7775060  -     
+
+
+GCA_008033485.2_ASM803348v2
+===========================
+RIAT02000002.1
+--------------
+Cluster 12, score 12.5770:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start   End     Strand
+intermediate  ABWC_002653  -         -         -          -         128844  129123  +     
+intermediate  ABWC_002654  -         -         -          -         129295  130054  +     
+intermediate  ABWC_002655  -         -         -          -         130133  130964  +     
+intermediate  ABWC_002656  -         -         -          -         130936  132043  -     
+intermediate  ABWC_002657  -         -         -          -         132201  132636  -     
+intermediate  ABWC_002658  -         -         -          -         132995  133640  +     
+intermediate  ABWC_002659  -         -         -          -         133651  134452  +     
+intermediate  ABWC_002660  -         -         -          -         134653  135238  -     
+intermediate  ABWC_002661  -         -         -          -         135282  136005  -     
+intermediate  ABWC_002662  -         -         -          -         136347  137298  -     
+intermediate  ABWC_002663  -         -         -          -         137358  138069  -     
+intermediate  ABWC_002664  -         -         -          -         138078  138849  -     
+intermediate  ABWC_002665  -         -         -          -         138895  139648  -     
+intermediate  ABWC_002666  -         -         -          -         139634  140669  -     
+intermediate  ABWC_002667  -         -         -          -         140665  141055  -     
+intermediate  ABWC_002668  -         -         -          -         141051  141990  -     
+intermediate  ABWC_002669  -         -         -          -         142039  143122  -     
+intermediate  ABWC_002670  -         -         -          -         143114  144446  -     
+intermediate  ABWC_002671  -         -         -          -         144770  145148  +     
+intermediate  ABWC_002672  -         -         -          -         145144  146734  +     
+intermediate  ABWC_002673  -         -         -          -         146762  148727  +     
+intermediate  ABWC_002674  -         -         -          -         148762  149428  +     
+intermediate  ABWC_002675  -         -         -          -         149483  151328  +     
+intermediate  ABWC_002676  -         -         -          -         151400  153482  +     
+CAA60461.1    ABWC_002677  27.2      27.8      1.19e-27   127       153405  154755  -     
+CAA60461.1    ABWC_002678  34.6      31.6      4.46e-42   172       154816  156391  -     
+intermediate  ABWC_002679  -         -         -          -         156476  157256  -     
+intermediate  ABWC_002680  -         -         -          -         157252  160495  -     
+intermediate  ABWC_002681  -         -         -          -         160488  160740  -     
+intermediate  ABWC_002682  -         -         -          -         160973  162260  -     
+intermediate  ABWC_002683  -         -         -          -         162590  163673  +     
+intermediate  ABWC_002684  -         -         -          -         163675  164926  +     
+intermediate  ABWC_002685  -         -         -          -         164925  166170  +     
+intermediate  ABWC_002686  -         -         -          -         166016  166502  -     
+intermediate  ABWC_002687  -         -         -          -         166498  166858  -     
+intermediate  ABWC_002688  -         -         -          -         167397  170013  +     
+CAA60459.1    ABWC_002689  67.5      71.5      0          8968      170220  194028  -     
+CAA60461.1    ABWC_002690  72.2      98.6      0          2143      194258  198788  +     
+CAA60459.1    ABWC_002691  63.3      27.6      0          3304      198793  207811  +     
+CAA60467.1    ABWC_002692  80.5      100       3.39e-191  539       207899  209033  -     
+CAA60468.1    ABWC_002693  78.6      97        4.41e-183  517       209099  210155  +     
+intermediate  ABWC_002694  -         -         -          -         210189  211356  +     
+intermediate  ABWC_002695  -         -         -          -         211380  212562  +     
+intermediate  ABWC_002696  -         -         -          -         212785  213358  -     
+intermediate  ABWC_002697  -         -         -          -         213354  214701  -     
+intermediate  ABWC_002698  -         -         -          -         214697  215696  -     
+intermediate  ABWC_002699  -         -         -          -         215692  216247  -     
+intermediate  ABWC_002700  -         -         -          -         216315  217287  -     
+intermediate  ABWC_002701  -         -         -          -         217604  218900  -     
+intermediate  ABWC_002702  -         -         -          -         219079  220300  -     
+intermediate  ABWC_002703  -         -         -          -         220386  222351  -     
+intermediate  ABWC_002704  -         -         -          -         222347  223574  -     
+intermediate  ABWC_002705  -         -         -          -         223616  224786  -     
+intermediate  ABWC_002706  -         -         -          -         224785  225673  -     
+intermediate  ABWC_002707  -         -         -          -         225662  226916  -     
+intermediate  ABWC_002708  -         -         -          -         226912  228703  -     
+intermediate  ABWC_002709  -         -         -          -         228699  229524  -     
+intermediate  ABWC_002710  -         -         -          -         229520  230546  -     
+intermediate  ABWC_002711  -         -         -          -         230542  231955  -     
+intermediate  ABWC_002712  -         -         -          -         232208  232499  -     
+intermediate  ABWC_002713  -         -         -          -         232642  233782  -     
+intermediate  ABWC_002714  -         -         -          -         233872  234475  +     
+
+
+GCA_008704495.1_ASM870449v1
+===========================
+CP023699.1
+----------
+Cluster 13, score 14.7489:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start   End     Strand
+intermediate  ABXR_000420  -         -         -          -         506005  506458  -     
+intermediate  ABXR_000421  -         -         -          -         506930  507416  +     
+intermediate  ABXR_000422  -         -         -          -         507908  509315  +     
+intermediate  ABXR_000423  -         -         -          -         509472  511230  -     
+intermediate  ABXR_000424  -         -         -          -         511393  512626  +     
+intermediate  ABXR_000425  -         -         -          -         513347  513965  +     
+intermediate  ABXR_000426  -         -         -          -         514007  514118  +     
+intermediate  ABXR_000427  -         -         -          -         514171  515095  +     
+intermediate  ABXR_000428  -         -         -          -         515203  516379  +     
+intermediate  ABXR_000429  -         -         -          -         516543  517143  -     
+intermediate  ABXR_000430  -         -         -          -         517457  518072  -     
+intermediate  ABXR_000431  -         -         -          -         518071  518920  -     
+intermediate  ABXR_000432  -         -         -          -         519353  520028  -     
+intermediate  ABXR_000433  -         -         -          -         520579  520963  -     
+intermediate  ABXR_000434  -         -         -          -         521254  521638  +     
+intermediate  ABXR_000435  -         -         -          -         521685  522330  +     
+intermediate  ABXR_000436  -         -         -          -         522472  523816  -     
+intermediate  ABXR_000437  -         -         -          -         523837  524395  -     
+intermediate  ABXR_000438  -         -         -          -         524580  524895  -     
+intermediate  ABXR_000439  -         -         -          -         525083  525986  +     
+intermediate  ABXR_000440  -         -         -          -         526034  526940  -     
+intermediate  ABXR_000441  -         -         -          -         526936  527302  -     
+intermediate  ABXR_000442  -         -         -          -         527685  528246  -     
+intermediate  ABXR_000443  -         -         -          -         528273  530361  -     
+CAA60459.1    ABXR_000444  31        2.5       2.16e-08   70.9      530894  532175  +     
+CAA60459.1    ABXR_000445  31.6      4.2       1.88e-39   171       532182  534573  +     
+intermediate  ABXR_000446  -         -         -          -         534781  535906  +     
+intermediate  ABXR_000447  -         -         -          -         535902  537063  +     
+intermediate  ABXR_000448  -         -         -          -         537141  537642  +     
+intermediate  ABXR_000449  -         -         -          -         537614  537809  +     
+intermediate  ABXR_000450  -         -         -          -         537786  538875  -     
+intermediate  ABXR_000451  -         -         -          -         538885  539986  -     
+intermediate  ABXR_000452  -         -         -          -         539978  540239  -     
+intermediate  ABXR_000453  -         -         -          -         540235  541087  -     
+CAA60467.1    ABXR_000454  76.4      100       1.86e-178  505       541107  542145  -     
+CAA60459.1    ABXR_000455  40.5      2.1       2.92e-33   139       542148  542766  -     
+CAA60459.1    ABXR_000456  57.6      32.8      0          3422      542846  552941  -     
+CAA60459.1    ABXR_000457  51.6      49.7      0          4420      552945  567906  -     
+intermediate  ABXR_000458  -         -         -          -         568498  569641  +     
+CAA60459.1    ABXR_000459  51.2      14.2      0          1181      570036  575754  -     
+CAA60468.1    ABXR_000460  71.9      98.8      2.23e-169  481       575979  576978  +     
+CAA60461.1    ABXR_000461  58.3      97.8      0          1644      576974  581495  +     
+CAA60459.1    ABXR_000462  50.9      31.4      0          2668      581979  591636  +     
+CAA60459.1    ABXR_000463  73.5      4.9       1.02e-231  728       591647  593549  +     
+CAA60459.1    ABXR_000464  52.5      22.1      0          2059      593538  600720  +     
+intermediate  ABXR_000465  -         -         -          -         600716  601883  +     
+intermediate  ABXR_000466  -         -         -          -         601879  602662  +     
+intermediate  ABXR_000467  -         -         -          -         602677  605437  -     
+intermediate  ABXR_000468  -         -         -          -         605517  606285  -     
+intermediate  ABXR_000469  -         -         -          -         606281  606653  -     
+intermediate  ABXR_000470  -         -         -          -         606875  607829  -     
+intermediate  ABXR_000471  -         -         -          -         608059  608290  -     
+intermediate  ABXR_000472  -         -         -          -         608386  608509  -     
+intermediate  ABXR_000473  -         -         -          -         608520  608682  +     
+intermediate  ABXR_000474  -         -         -          -         608910  609867  -     
+intermediate  ABXR_000475  -         -         -          -         610379  610790  +     
+intermediate  ABXR_000476  -         -         -          -         611303  612338  -     
+intermediate  ABXR_000477  -         -         -          -         612481  613474  +     
+intermediate  ABXR_000478  -         -         -          -         613563  614517  -     
+intermediate  ABXR_000479  -         -         -          -         614589  615174  +     
+intermediate  ABXR_000480  -         -         -          -         615337  615748  +     
+intermediate  ABXR_000481  -         -         -          -         615948  616665  -     
+intermediate  ABXR_000482  -         -         -          -         616775  618011  -     
+intermediate  ABXR_000483  -         -         -          -         618261  618903  +     
+intermediate  ABXR_000484  -         -         -          -         618969  620109  -     
+intermediate  ABXR_000485  -         -         -          -         620148  620334  -     
+intermediate  ABXR_000486  -         -         -          -         620330  620657  -     
+intermediate  ABXR_000487  -         -         -          -         620957  621824  -     
+intermediate  ABXR_000488  -         -         -          -         621820  622447  -     
+intermediate  ABXR_000489  -         -         -          -         622691  623060  +     
+intermediate  ABXR_000490  -         -         -          -         623056  623989  +     
+intermediate  ABXR_000491  -         -         -          -         624020  624425  -     
+intermediate  ABXR_000492  -         -         -          -         624634  624862  +     
+
+
+GCA_009296025.1_ASM929602v1
+===========================
+CP045178.1
+----------
+Cluster 14, score 19.9161:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start    End      Strand
+intermediate  ABYQ_006335  -         -         -          -         7749410  7750370  +     
+intermediate  ABYQ_006336  -         -         -          -         7750375  7751221  +     
+intermediate  ABYQ_006337  -         -         -          -         7751284  7752010  +     
+intermediate  ABYQ_006338  -         -         -          -         7752035  7752608  -     
+intermediate  ABYQ_006339  -         -         -          -         7752790  7754065  -     
+intermediate  ABYQ_006340  -         -         -          -         7754125  7755481  -     
+intermediate  ABYQ_006341  -         -         -          -         7755788  7757366  +     
+intermediate  ABYQ_006342  -         -         -          -         7757406  7758138  +     
+intermediate  ABYQ_006343  -         -         -          -         7758220  7758829  +     
+intermediate  ABYQ_006344  -         -         -          -         7758948  7759176  +     
+intermediate  ABYQ_006345  -         -         -          -         7759172  7760057  +     
+intermediate  ABYQ_006346  -         -         -          -         7760164  7762069  -     
+intermediate  ABYQ_006347  -         -         -          -         7762181  7764353  -     
+intermediate  ABYQ_006348  -         -         -          -         7764856  7765855  -     
+intermediate  ABYQ_006349  -         -         -          -         7765961  7766438  -     
+intermediate  ABYQ_006350  -         -         -          -         7766666  7768067  +     
+intermediate  ABYQ_006351  -         -         -          -         7768512  7768725  +     
+intermediate  ABYQ_006352  -         -         -          -         7768721  7769489  +     
+intermediate  ABYQ_006353  -         -         -          -         7769548  7772353  +     
+intermediate  ABYQ_006354  -         -         -          -         7772377  7773160  -     
+intermediate  ABYQ_006355  -         -         -          -         7773156  7774323  -     
+CAA60459.1    ABYQ_006356  49.3      11.7      0          1012      7774319  7778519  -     
+CAA60459.1    ABYQ_006357  51.6      39.5      0          3544      7778518  7791307  -     
+intermediate  ABYQ_006358  -         -         -          -         7791602  7792028  +     
+CAA60459.1    ABYQ_006359  69.4      3.9       9.94e-168  542       7791831  7793652  -     
+CAA60461.1    ABYQ_006360  53.8      97.2      0          1571      7793654  7798601  -     
+CAA60468.1    ABYQ_006361  72.3      98.8      1.99e-170  484       7798597  7799599  -     
+CAA60459.1    ABYQ_006362  49.2      68.4      0          5717      7799829  7823247  +     
+CAA60459.1    ABYQ_006363  55.4      36        0          3595      7823252  7834307  +     
+CAA60467.1    ABYQ_006364  77.3      100       1.95e-180  510       7834479  7835517  +     
+intermediate  ABYQ_006365  -         -         -          -         7835537  7836386  +     
+intermediate  ABYQ_006366  -         -         -          -         7836382  7836643  +     
+intermediate  ABYQ_006367  -         -         -          -         7836635  7837736  +     
+intermediate  ABYQ_006368  -         -         -          -         7837746  7838835  +     
+intermediate  ABYQ_006369  -         -         -          -         7838812  7839112  -     
+intermediate  ABYQ_006370  -         -         -          -         7839096  7839240  -     
+intermediate  ABYQ_006371  -         -         -          -         7839330  7840491  -     
+intermediate  ABYQ_006372  -         -         -          -         7840493  7841825  -     
+CAA60459.1    ABYQ_006373  41.3      2.7       5.84e-39   170       7841821  7844212  -     
+CAA60459.1    ABYQ_006374  33        2.5       4.05e-09   73.2      7844219  7845509  -     
+intermediate  ABYQ_006375  -         -         -          -         7845838  7846048  +     
+intermediate  ABYQ_006376  -         -         -          -         7846365  7847208  -     
+intermediate  ABYQ_006377  -         -         -          -         7847290  7848568  -     
+intermediate  ABYQ_006378  -         -         -          -         7848609  7849443  -     
+intermediate  ABYQ_006379  -         -         -          -         7849445  7850132  -     
+intermediate  ABYQ_006380  -         -         -          -         7850241  7850469  -     
+intermediate  ABYQ_006381  -         -         -          -         7850477  7851683  -     
+intermediate  ABYQ_006382  -         -         -          -         7851735  7852476  -     
+intermediate  ABYQ_006383  -         -         -          -         7852530  7853586  -     
+intermediate  ABYQ_006384  -         -         -          -         7853582  7854893  -     
+intermediate  ABYQ_006385  -         -         -          -         7854934  7856254  -     
+intermediate  ABYQ_006386  -         -         -          -         7856250  7857078  -     
+intermediate  ABYQ_006387  -         -         -          -         7857124  7857268  -     
+intermediate  ABYQ_006388  -         -         -          -         7857299  7858496  -     
+intermediate  ABYQ_006389  -         -         -          -         7858635  7859097  -     
+CAA60459.1    ABYQ_006390  39.5      8.7       5.25e-159  542       7859162  7863065  -     
+CAA60459.1    ABYQ_006391  47.2      21.4      0          1786      7863061  7870780  -     
+CAA60459.1    ABYQ_006392  38.4      4.8       6.68e-76   275       7870826  7872476  -     
+CAA60459.1    ABYQ_006393  39        45.1      0          2555      7872531  7886028  -     
+CAA60459.1    ABYQ_006394  41.4      51.1      0          3383      7886313  7902039  -     
+CAA60459.1    ABYQ_006395  40.7      52.5      0          3402      7902121  7920943  -     
+intermediate  ABYQ_006396  -         -         -          -         7921637  7922390  +     
+intermediate  ABYQ_006397  -         -         -          -         7922386  7923112  +     
+intermediate  ABYQ_006398  -         -         -          -         7923262  7923844  +     
+intermediate  ABYQ_006399  -         -         -          -         7923889  7927420  +     
+intermediate  ABYQ_006400  -         -         -          -         7927522  7928509  +     
+intermediate  ABYQ_006401  -         -         -          -         7928664  7929678  +     
+intermediate  ABYQ_006402  -         -         -          -         7930271  7931795  -     
+intermediate  ABYQ_006403  -         -         -          -         7931851  7933105  -     
+intermediate  ABYQ_006404  -         -         -          -         7933176  7934181  +     
+intermediate  ABYQ_006405  -         -         -          -         7934535  7935786  -     
+intermediate  ABYQ_006406  -         -         -          -         7935961  7936564  -     
+intermediate  ABYQ_006407  -         -         -          -         7936788  7937985  -     
+intermediate  ABYQ_006408  -         -         -          -         7938191  7939637  -     
+intermediate  ABYQ_006409  -         -         -          -         7939859  7941026  +     
+intermediate  ABYQ_006410  -         -         -          -         7941459  7941834  +     
+intermediate  ABYQ_006411  -         -         -          -         7942213  7942798  -     
+intermediate  ABYQ_006412  -         -         -          -         7943065  7943344  -     
+intermediate  ABYQ_006413  -         -         -          -         7943403  7944084  +     
+intermediate  ABYQ_006414  -         -         -          -         7944265  7944442  -     
+
+
+GCA_009862825.1_ASM986282v1
+===========================
+WWIK01000461.1
+--------------
+Cluster 15, score 13.7114:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start   End     Strand
+intermediate  ACBI_002735  -         -         -          -         158     950     -     
+intermediate  ACBI_002736  -         -         -          -         1066    1474    -     
+intermediate  ACBI_002737  -         -         -          -         1473    2079    -     
+intermediate  ACBI_002738  -         -         -          -         2160    3147    -     
+intermediate  ACBI_002739  -         -         -          -         3687    4638    -     
+intermediate  ACBI_002740  -         -         -          -         4661    5981    -     
+intermediate  ACBI_002741  -         -         -          -         6396    7299    +     
+intermediate  ACBI_002742  -         -         -          -         7413    8268    -     
+intermediate  ACBI_002743  -         -         -          -         8750    8993    +     
+intermediate  ACBI_002744  -         -         -          -         9003    10113   -     
+intermediate  ACBI_002745  -         -         -          -         10201   10447   +     
+intermediate  ACBI_002746  -         -         -          -         10425   11370   -     
+intermediate  ACBI_002747  -         -         -          -         12289   13069   +     
+intermediate  ACBI_002748  -         -         -          -         13135   15895   +     
+intermediate  ACBI_002749  -         -         -          -         15909   16692   -     
+intermediate  ACBI_002750  -         -         -          -         16688   17855   -     
+CAA60459.1    ACBI_002751  44.5      5         4.63e-113  389       17851   20011   -     
+CAA60459.1    ACBI_002752  48.6      51.8      0          4385      20022   37107   -     
+CAA60461.1    ACBI_002753  56.8      97.3      0          1572      37109   41708   -     
+CAA60468.1    ACBI_002754  71.1      98.2      8.84e-164  467       41704   42697   -     
+CAA60459.1    ACBI_002755  50        16.5      0          1367      42917   49859   +     
+CAA60459.1    ACBI_002756  50.9      51.5      0          4511      49930   65884   +     
+CAA60459.1    ACBI_002757  55.8      35.4      0          3541      65888   76685   +     
+CAA60467.1    ACBI_002758  77.6      100       3.94e-180  509       76785   77823   +     
+intermediate  ACBI_002759  -         -         -          -         77819   78695   +     
+intermediate  ACBI_002760  -         -         -          -         78691   78952   +     
+intermediate  ACBI_002761  -         -         -          -         78944   80045   +     
+intermediate  ACBI_002762  -         -         -          -         80055   81144   +     
+intermediate  ACBI_002763  -         -         -          -         81121   81772   -     
+intermediate  ACBI_002764  -         -         -          -         81961   82714   -     
+intermediate  ACBI_002765  -         -         -          -         82726   83914   -     
+intermediate  ACBI_002766  -         -         -          -         84098   85328   -     
+intermediate  ACBI_002767  -         -         -          -         85431   85899   -     
+intermediate  ACBI_002768  -         -         -          -         85958   87113   +     
+intermediate  ACBI_002769  -         -         -          -         87125   88286   -     
+intermediate  ACBI_002770  -         -         -          -         88282   89620   -     
+CAA60459.1    ACBI_002771  30.6      4.2       8.6e-35    157       89616   92007   -     
+intermediate  ACBI_002772  -         -         -          -         92014   93310   -     
+intermediate  ACBI_002773  -         -         -          -         93786   94290   -     
+intermediate  ACBI_002774  -         -         -          -         94286   94472   -     
+intermediate  ACBI_002775  -         -         -          -         94593   95229   -     
+intermediate  ACBI_002776  -         -         -          -         95225   95795   -     
+intermediate  ACBI_002777  -         -         -          -         95787   96006   -     
+intermediate  ACBI_002778  -         -         -          -         96470   97337   +     
+intermediate  ACBI_002779  -         -         -          -         97714   98422   +     
+intermediate  ACBI_002780  -         -         -          -         98568   99264   +     
+intermediate  ACBI_002781  -         -         -          -         99400   100093  +     
+intermediate  ACBI_002782  -         -         -          -         100034  100838  -     
+intermediate  ACBI_002783  -         -         -          -         100834  101830  -     
+intermediate  ACBI_002784  -         -         -          -         101874  102903  -     
+CAA60461.1    ACBI_002785  32.2      34.6      1.62e-54   216       102973  105748  -     
+
+
+GCA_014205315.1_ASM1420531v1
+============================
+JACHNG010000004.1
+-----------------
+Cluster 16, score 16.0286:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start  End    Strand
+intermediate  ACMB_010168  -         -         -          -         0      99     -     
+CAA60461.1    ACMB_010169  97.9      96.6      0          2806      103    4576   -     
+CAA60459.1    ACMB_010170  78.9      21.4      0          3230      5117   14552  +     
+CAA60459.1    ACMB_010171  69.1      0.9       1.09e-25   113       14758  15052  +     
+CAA60459.1    ACMB_010172  93.8      0.9       6.94e-50   182       16982  17294  +     
+CAA60459.1    ACMB_010173  75.2      3.7       8.03e-176  557       17280  18510  +     
+CAA60459.1    ACMB_010174  88.6      2         7.02e-104  342       18509  19139  +     
+CAA60459.1    ACMB_010175  88.1      1.5       3.15e-80   271       19718  20186  +     
+CAA60459.1    ACMB_010176  78        32.4      0          4889      20636  30860  +     
+CAA60459.1    ACMB_010177  58.3      59.3      0          6074      30856  44875  +     
+intermediate  ACMB_010178  -         -         -          -         44944  45577  +     
+intermediate  ACMB_010179  -         -         -          -         45679  45916  -     
+intermediate  ACMB_010180  -         -         -          -         45909  47124  -     
+intermediate  ACMB_010181  -         -         -          -         47137  48094  -     
+CAA60467.1    ACMB_010182  98.5      100       2.66e-235  649       48197  49229  -     
+CAA60468.1    ACMB_010183  95.5      100       2.74e-231  638       49581  50595  +     
+intermediate  ACMB_010184  -         -         -          -         50625  51792  +     
+intermediate  ACMB_010185  -         -         -          -         51788  52571  +     
+intermediate  ACMB_010186  -         -         -          -         52624  55345  -     
+intermediate  ACMB_010187  -         -         -          -         55615  56608  +     
+intermediate  ACMB_010188  -         -         -          -         56620  57985  -     
+intermediate  ACMB_010189  -         -         -          -         57994  59392  -     
+intermediate  ACMB_010190  -         -         -          -         59649  60801  +     
+intermediate  ACMB_010191  -         -         -          -         60950  61904  +     
+intermediate  ACMB_010192  -         -         -          -         61969  62806  +     
+CAA60461.1    ACMB_010193  35.3      67.7      1.45e-159  535       62883  67830  -     
+intermediate  ACMB_010194  -         -         -          -         67865  68603  -     
+intermediate  ACMB_010195  -         -         -          -         68599  68809  -     
+intermediate  ACMB_010196  -         -         -          -         68812  69832  -     
+intermediate  ACMB_010197  -         -         -          -         69846  70800  -     
+intermediate  ACMB_010198  -         -         -          -         71015  72287  -     
+intermediate  ACMB_010199  -         -         -          -         72440  74273  -     
+intermediate  ACMB_010200  -         -         -          -         74745  75771  -     
+intermediate  ACMB_010201  -         -         -          -         75767  76457  -     
+intermediate  ACMB_010202  -         -         -          -         76591  77572  -     
+intermediate  ACMB_010203  -         -         -          -         77657  78248  -     
+intermediate  ACMB_010204  -         -         -          -         78285  78648  -     
+intermediate  ACMB_010205  -         -         -          -         78685  79399  -     
+intermediate  ACMB_010206  -         -         -          -         79412  80195  -     
+intermediate  ACMB_010207  -         -         -          -         80570  83555  -     
+intermediate  ACMB_010208  -         -         -          -         84058  84958  -     
+intermediate  ACMB_010209  -         -         -          -         85317  86094  +     
+intermediate  ACMB_010210  -         -         -          -         86102  87413  -     
+intermediate  ACMB_010211  -         -         -          -         87409  89257  -     
+
+
+GCA_015689475.1_ASM1568947v1
+============================
+CP065050.1
+----------
+Cluster 17, score 14.0702:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start     End       Strand
+intermediate  ACUY_008962  -         -         -          -         11158905  11159508  -     
+intermediate  ACUY_008963  -         -         -          -         11159598  11160738  +     
+intermediate  ACUY_008964  -         -         -          -         11160882  11161173  +     
+intermediate  ACUY_008965  -         -         -          -         11161237  11162839  +     
+intermediate  ACUY_008966  -         -         -          -         11162835  11163861  +     
+intermediate  ACUY_008967  -         -         -          -         11163857  11164682  +     
+intermediate  ACUY_008968  -         -         -          -         11164678  11166469  +     
+intermediate  ACUY_008969  -         -         -          -         11166465  11167719  +     
+intermediate  ACUY_008970  -         -         -          -         11167708  11168596  +     
+intermediate  ACUY_008971  -         -         -          -         11168595  11169765  +     
+intermediate  ACUY_008972  -         -         -          -         11169822  11171049  +     
+intermediate  ACUY_008973  -         -         -          -         11171045  11173019  +     
+intermediate  ACUY_008974  -         -         -          -         11173105  11174326  +     
+intermediate  ACUY_008975  -         -         -          -         11174505  11175801  +     
+intermediate  ACUY_008976  -         -         -          -         11176119  11177091  +     
+intermediate  ACUY_008977  -         -         -          -         11177159  11177714  +     
+intermediate  ACUY_008978  -         -         -          -         11177710  11178709  +     
+intermediate  ACUY_008979  -         -         -          -         11178705  11180052  +     
+intermediate  ACUY_008980  -         -         -          -         11180048  11180621  +     
+intermediate  ACUY_008981  -         -         -          -         11180843  11182025  -     
+intermediate  ACUY_008982  -         -         -          -         11182049  11183216  -     
+CAA60468.1    ACUY_008983  78.6      97        4.41e-183  517       11183250  11184306  -     
+CAA60467.1    ACUY_008984  81.3      100       1.45e-192  542       11184372  11185506  +     
+CAA60459.1    ACUY_008985  61.2      67.3      0          7878      11185593  11210001  -     
+CAA60461.1    ACUY_008986  72.1      98.6      0          2140      11210006  11214536  -     
+CAA60459.1    ACUY_008987  67.7      71.5      0          8986      11214766  11238577  +     
+intermediate  ACUY_008988  -         -         -          -         11238784  11241400  -     
+intermediate  ACUY_008989  -         -         -          -         11241939  11242299  +     
+intermediate  ACUY_008990  -         -         -          -         11242629  11243874  -     
+intermediate  ACUY_008991  -         -         -          -         11243873  11245124  -     
+intermediate  ACUY_008992  -         -         -          -         11245126  11246209  -     
+intermediate  ACUY_008993  -         -         -          -         11246539  11247826  +     
+intermediate  ACUY_008994  -         -         -          -         11248059  11248311  +     
+CAA60461.1    ACUY_008995  28.5      67        7.56e-94   338       11248304  11251547  +     
+intermediate  ACUY_008996  -         -         -          -         11251543  11252323  +     
+CAA60461.1    ACUY_008997  34.6      31.6      1e-42      174       11252408  11253983  +     
+CAA60461.1    ACUY_008998  27.2      27.8      1.59e-27   127       11254044  11255394  +     
+intermediate  ACUY_008999  -         -         -          -         11255317  11257399  -     
+intermediate  ACUY_009000  -         -         -          -         11257471  11259316  -     
+intermediate  ACUY_009001  -         -         -          -         11259371  11260037  -     
+intermediate  ACUY_009002  -         -         -          -         11260072  11262037  -     
+intermediate  ACUY_009003  -         -         -          -         11262065  11263655  -     
+intermediate  ACUY_009004  -         -         -          -         11263651  11264029  -     
+intermediate  ACUY_009005  -         -         -          -         11264352  11265684  +     
+intermediate  ACUY_009006  -         -         -          -         11265676  11266759  +     
+intermediate  ACUY_009007  -         -         -          -         11266808  11267747  +     
+intermediate  ACUY_009008  -         -         -          -         11267743  11268133  +     
+intermediate  ACUY_009009  -         -         -          -         11268129  11269164  +     
+intermediate  ACUY_009010  -         -         -          -         11269150  11269903  +     
+intermediate  ACUY_009011  -         -         -          -         11269949  11270720  +     
+intermediate  ACUY_009012  -         -         -          -         11270729  11271440  +     
+intermediate  ACUY_009013  -         -         -          -         11271500  11272451  +     
+intermediate  ACUY_009014  -         -         -          -         11272792  11273515  +     
+intermediate  ACUY_009015  -         -         -          -         11273559  11274144  +     
+intermediate  ACUY_009016  -         -         -          -         11274345  11275146  -     
+intermediate  ACUY_009017  -         -         -          -         11275157  11275973  -     
+intermediate  ACUY_009018  -         -         -          -         11276245  11276575  -     
+intermediate  ACUY_009019  -         -         -          -         11276759  11277827  +     
+intermediate  ACUY_009020  -         -         -          -         11277840  11278671  -     
+intermediate  ACUY_009021  -         -         -          -         11278684  11279509  -     
+intermediate  ACUY_009022  -         -         -          -         11279681  11279960  -     
+
+
+GCA_016919685.1_ASM1691968v1
+============================
+CP070379.1
+----------
+Cluster 18, score 13.7438:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start    End      Strand
+intermediate  ACZH_006413  -         -         -          -         7689340  7690747  -     
+intermediate  ACZH_006414  -         -         -          -         7690992  7691775  -     
+intermediate  ACZH_006415  -         -         -          -         7692373  7695820  +     
+intermediate  ACZH_006416  -         -         -          -         7695777  7696449  -     
+intermediate  ACZH_006417  -         -         -          -         7696464  7697256  -     
+intermediate  ACZH_006418  -         -         -          -         7697372  7697780  -     
+intermediate  ACZH_006419  -         -         -          -         7697779  7698385  -     
+intermediate  ACZH_006420  -         -         -          -         7698466  7699453  -     
+intermediate  ACZH_006421  -         -         -          -         7699993  7700944  -     
+intermediate  ACZH_006422  -         -         -          -         7700967  7702287  -     
+intermediate  ACZH_006423  -         -         -          -         7702702  7703605  +     
+intermediate  ACZH_006424  -         -         -          -         7703719  7704574  -     
+intermediate  ACZH_006425  -         -         -          -         7705056  7705299  +     
+intermediate  ACZH_006426  -         -         -          -         7705309  7706419  -     
+intermediate  ACZH_006427  -         -         -          -         7706507  7706753  +     
+intermediate  ACZH_006428  -         -         -          -         7706731  7707676  -     
+intermediate  ACZH_006429  -         -         -          -         7708595  7709375  +     
+intermediate  ACZH_006430  -         -         -          -         7709441  7712201  +     
+intermediate  ACZH_006431  -         -         -          -         7712215  7712998  -     
+intermediate  ACZH_006432  -         -         -          -         7712994  7714161  -     
+CAA60459.1    ACZH_006433  48.8      59.1      0          5040      7714157  7733414  -     
+CAA60461.1    ACZH_006434  56.8      97.3      0          1572      7733416  7738015  -     
+CAA60468.1    ACZH_006435  71.1      98.2      8.84e-164  467       7738011  7739004  -     
+CAA60459.1    ACZH_006436  47.4      20.3      0          1553      7739224  7747246  +     
+CAA60459.1    ACZH_006437  51.1      49.6      0          4366      7747188  7762191  +     
+CAA60459.1    ACZH_006438  56.6      30.8      0          3153      7762195  7771720  +     
+CAA60459.1    ACZH_006439  46.8      4.1       5.31e-97   331       7771731  7772991  +     
+CAA60467.1    ACZH_006440  77.6      100       3.94e-180  509       7773091  7774129  +     
+intermediate  ACZH_006441  -         -         -          -         7774125  7775001  +     
+intermediate  ACZH_006442  -         -         -          -         7774997  7775258  +     
+intermediate  ACZH_006443  -         -         -          -         7775250  7776351  +     
+intermediate  ACZH_006444  -         -         -          -         7776361  7777450  +     
+intermediate  ACZH_006445  -         -         -          -         7777427  7778078  -     
+intermediate  ACZH_006446  -         -         -          -         7778267  7779020  -     
+intermediate  ACZH_006447  -         -         -          -         7779032  7780220  -     
+intermediate  ACZH_006448  -         -         -          -         7780404  7781634  -     
+intermediate  ACZH_006449  -         -         -          -         7781737  7782205  -     
+intermediate  ACZH_006450  -         -         -          -         7782264  7783419  +     
+intermediate  ACZH_006451  -         -         -          -         7783431  7784592  -     
+intermediate  ACZH_006452  -         -         -          -         7784588  7785926  -     
+CAA60459.1    ACZH_006453  30.6      4.2       8.6e-35    157       7785922  7788313  -     
+intermediate  ACZH_006454  -         -         -          -         7788320  7789616  -     
+intermediate  ACZH_006455  -         -         -          -         7790092  7790596  -     
+intermediate  ACZH_006456  -         -         -          -         7790592  7790778  -     
+intermediate  ACZH_006457  -         -         -          -         7790899  7791535  -     
+intermediate  ACZH_006458  -         -         -          -         7791531  7792101  -     
+intermediate  ACZH_006459  -         -         -          -         7792093  7792312  -     
+intermediate  ACZH_006460  -         -         -          -         7792776  7793643  +     
+intermediate  ACZH_006461  -         -         -          -         7794020  7794728  +     
+intermediate  ACZH_006462  -         -         -          -         7794874  7795570  +     
+intermediate  ACZH_006463  -         -         -          -         7795706  7796399  +     
+intermediate  ACZH_006464  -         -         -          -         7796340  7797144  -     
+intermediate  ACZH_006465  -         -         -          -         7797140  7798136  -     
+intermediate  ACZH_006466  -         -         -          -         7798180  7799209  -     
+CAA60461.1    ACZH_006467  28.4      67        1.67e-76   290       7799279  7803545  -     
+intermediate  ACZH_006468  -         -         -          -         7803531  7803789  -     
+intermediate  ACZH_006469  -         -         -          -         7803886  7805479  -     
+intermediate  ACZH_006470  -         -         -          -         7805641  7806178  -     
+intermediate  ACZH_006471  -         -         -          -         7806179  7807064  -     
+intermediate  ACZH_006472  -         -         -          -         7807114  7807354  -     
+intermediate  ACZH_006473  -         -         -          -         7807350  7808442  -     
+intermediate  ACZH_006474  -         -         -          -         7808515  7809919  -     
+intermediate  ACZH_006475  -         -         -          -         7810473  7810698  +     
+intermediate  ACZH_006476  -         -         -          -         7810694  7813049  +     
+intermediate  ACZH_006477  -         -         -          -         7813045  7813573  +     
+intermediate  ACZH_006478  -         -         -          -         7813639  7814392  -     
+intermediate  ACZH_006479  -         -         -          -         7815025  7817050  +     
+intermediate  ACZH_006480  -         -         -          -         7817121  7818540  +     
+intermediate  ACZH_006481  -         -         -          -         7818590  7818986  -     
+
+
+GCA_017874715.1_ASM1787471v1
+============================
+JAGGLR010000047.1
+-----------------
+Cluster 19, score 9.5800:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start  End    Strand
+CAA60459.1    ADAI_009516  80.3      24.1      0          3717      2      10226  -     
+CAA60461.1    ADAI_009517  90.8      96.6      0          2645      10765  15256  +     
+CAA60459.1    ADAI_009518  72.6      59.3      0          8223      15260  34055  +     
+intermediate  ADAI_009519  -         -         -          -         34122  34755  +     
+intermediate  ADAI_009520  -         -         -          -         34856  35093  -     
+intermediate  ADAI_009521  -         -         -          -         35086  36301  -     
+intermediate  ADAI_009522  -         -         -          -         36447  37404  -     
+CAA60467.1    ADAI_009523  93.9      100       3.4e-222   616       37619  38651  -     
+CAA60468.1    ADAI_009524  90.5      100       9.61e-216  599       39002  40016  +     
+intermediate  ADAI_009525  -         -         -          -         40046  41213  +     
+intermediate  ADAI_009526  -         -         -          -         41221  41992  +     
+intermediate  ADAI_009527  -         -         -          -         42045  44751  -     
+intermediate  ADAI_009528  -         -         -          -         44998  45835  -     
+intermediate  ADAI_009529  -         -         -          -         46120  46447  -     
+
+
+GCA_021233395.1_ASM2123339v1
+============================
+CP089536.1
+----------
+Cluster 20, score 15.0704:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start     End       Strand
+intermediate  ADLI_008972  -         -         -          -         11172270  11172873  -     
+intermediate  ADLI_008973  -         -         -          -         11172963  11174103  +     
+intermediate  ADLI_008974  -         -         -          -         11174247  11174538  +     
+intermediate  ADLI_008975  -         -         -          -         11174602  11176204  +     
+intermediate  ADLI_008976  -         -         -          -         11176200  11177226  +     
+intermediate  ADLI_008977  -         -         -          -         11177222  11178047  +     
+intermediate  ADLI_008978  -         -         -          -         11178043  11179834  +     
+intermediate  ADLI_008979  -         -         -          -         11179830  11181084  +     
+intermediate  ADLI_008980  -         -         -          -         11181073  11181961  +     
+intermediate  ADLI_008981  -         -         -          -         11181960  11183130  +     
+intermediate  ADLI_008982  -         -         -          -         11183187  11184414  +     
+intermediate  ADLI_008983  -         -         -          -         11184410  11186384  +     
+intermediate  ADLI_008984  -         -         -          -         11186470  11187691  +     
+intermediate  ADLI_008985  -         -         -          -         11187870  11189166  +     
+intermediate  ADLI_008986  -         -         -          -         11189484  11190456  +     
+intermediate  ADLI_008987  -         -         -          -         11190524  11191079  +     
+intermediate  ADLI_008988  -         -         -          -         11191075  11192074  +     
+intermediate  ADLI_008989  -         -         -          -         11192070  11193417  +     
+intermediate  ADLI_008990  -         -         -          -         11193413  11193986  +     
+intermediate  ADLI_008991  -         -         -          -         11194208  11195390  -     
+intermediate  ADLI_008992  -         -         -          -         11195414  11196581  -     
+CAA60468.1    ADLI_008993  78.6      97        8.75e-183  517       11196615  11197728  -     
+CAA60467.1    ADLI_008994  81.3      100       1.45e-192  542       11197737  11198871  +     
+CAA60459.1    ADLI_008995  61.2      67.3      0          7878      11198958  11223366  -     
+CAA60461.1    ADLI_008996  72.1      98.6      0          2140      11223371  11227901  -     
+CAA60459.1    ADLI_008997  69.7      28.4      0          3716      11228131  11239402  +     
+CAA60459.1    ADLI_008998  66.4      43        0          5271      11239383  11251941  +     
+intermediate  ADLI_008999  -         -         -          -         11252148  11254764  -     
+intermediate  ADLI_009000  -         -         -          -         11255303  11255663  +     
+intermediate  ADLI_009001  -         -         -          -         11255993  11257238  -     
+intermediate  ADLI_009002  -         -         -          -         11257237  11258488  -     
+intermediate  ADLI_009003  -         -         -          -         11258490  11259573  -     
+intermediate  ADLI_009004  -         -         -          -         11259903  11261190  +     
+intermediate  ADLI_009005  -         -         -          -         11261423  11261675  +     
+CAA60461.1    ADLI_009006  28.5      67        3.04e-94   339       11261668  11264911  +     
+intermediate  ADLI_009007  -         -         -          -         11264907  11265687  +     
+CAA60461.1    ADLI_009008  34.6      31.6      1e-42      174       11265772  11267347  +     
+CAA60461.1    ADLI_009009  27.2      27.8      1.59e-27   127       11267408  11268758  +     
+intermediate  ADLI_009010  -         -         -          -         11268681  11270763  -     
+intermediate  ADLI_009011  -         -         -          -         11270835  11272680  -     
+intermediate  ADLI_009012  -         -         -          -         11272735  11273401  -     
+intermediate  ADLI_009013  -         -         -          -         11273436  11275401  -     
+intermediate  ADLI_009014  -         -         -          -         11275429  11277019  -     
+intermediate  ADLI_009015  -         -         -          -         11277015  11277393  -     
+intermediate  ADLI_009016  -         -         -          -         11277716  11279048  +     
+intermediate  ADLI_009017  -         -         -          -         11279040  11280123  +     
+intermediate  ADLI_009018  -         -         -          -         11280172  11281111  +     
+intermediate  ADLI_009019  -         -         -          -         11281107  11281497  +     
+intermediate  ADLI_009020  -         -         -          -         11281493  11282528  +     
+intermediate  ADLI_009021  -         -         -          -         11282514  11283267  +     
+intermediate  ADLI_009022  -         -         -          -         11283313  11284084  +     
+intermediate  ADLI_009023  -         -         -          -         11284093  11284804  +     
+intermediate  ADLI_009024  -         -         -          -         11284864  11285815  +     
+intermediate  ADLI_009025  -         -         -          -         11286156  11286879  +     
+intermediate  ADLI_009026  -         -         -          -         11286923  11287508  +     
+intermediate  ADLI_009027  -         -         -          -         11287709  11288510  -     
+intermediate  ADLI_009028  -         -         -          -         11288521  11289337  -     
+intermediate  ADLI_009029  -         -         -          -         11289609  11289939  -     
+intermediate  ADLI_009030  -         -         -          -         11290123  11291191  +     
+intermediate  ADLI_009031  -         -         -          -         11291204  11292035  -     
+intermediate  ADLI_009032  -         -         -          -         11292048  11292873  -     
+intermediate  ADLI_009033  -         -         -          -         11293045  11293324  -     
+
+
+GCA_024298965.1_ASM2429896v1
+============================
+CP085193.1
+----------
+Cluster 21, score 14.2755:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start     End       Strand
+intermediate  ADRU_008085  -         -         -          -         9860707   9862555   +     
+intermediate  ADRU_008086  -         -         -          -         9862551   9863862   +     
+intermediate  ADRU_008087  -         -         -          -         9863870   9864647   -     
+intermediate  ADRU_008088  -         -         -          -         9865006   9865906   +     
+intermediate  ADRU_008089  -         -         -          -         9866409   9869394   +     
+intermediate  ADRU_008090  -         -         -          -         9869769   9870552   +     
+intermediate  ADRU_008091  -         -         -          -         9870565   9871279   +     
+intermediate  ADRU_008092  -         -         -          -         9871316   9871679   +     
+intermediate  ADRU_008093  -         -         -          -         9871716   9872307   +     
+intermediate  ADRU_008094  -         -         -          -         9872392   9873373   +     
+intermediate  ADRU_008095  -         -         -          -         9873507   9874197   +     
+intermediate  ADRU_008096  -         -         -          -         9874193   9875219   +     
+intermediate  ADRU_008097  -         -         -          -         9875691   9877524   +     
+intermediate  ADRU_008098  -         -         -          -         9877677   9878949   +     
+intermediate  ADRU_008099  -         -         -          -         9879164   9880118   +     
+intermediate  ADRU_008100  -         -         -          -         9880132   9881152   +     
+intermediate  ADRU_008101  -         -         -          -         9881155   9881365   +     
+intermediate  ADRU_008102  -         -         -          -         9881361   9882099   +     
+CAA60461.1    ADRU_008103  35.3      67.7      1.45e-159  535       9882134   9887081   +     
+intermediate  ADRU_008104  -         -         -          -         9887158   9887995   -     
+intermediate  ADRU_008105  -         -         -          -         9888060   9889014   -     
+intermediate  ADRU_008106  -         -         -          -         9889163   9890315   -     
+intermediate  ADRU_008107  -         -         -          -         9890572   9891970   +     
+intermediate  ADRU_008108  -         -         -          -         9891979   9893344   +     
+intermediate  ADRU_008109  -         -         -          -         9893356   9894349   -     
+intermediate  ADRU_008110  -         -         -          -         9894619   9897340   +     
+intermediate  ADRU_008111  -         -         -          -         9897393   9898176   -     
+intermediate  ADRU_008112  -         -         -          -         9898172   9899339   -     
+CAA60468.1    ADRU_008113  95.5      100       2.74e-231  638       9899369   9900383   -     
+CAA60467.1    ADRU_008114  98.5      100       2.66e-235  649       9900734   9901766   +     
+intermediate  ADRU_008115  -         -         -          -         9901869   9902826   +     
+intermediate  ADRU_008116  -         -         -          -         9902839   9904054   +     
+intermediate  ADRU_008117  -         -         -          -         9904047   9904284   +     
+intermediate  ADRU_008118  -         -         -          -         9904386   9905019   -     
+CAA60459.1    ADRU_008119  72.7      59.3      0          8265      9905088   9923886   -     
+CAA60461.1    ADRU_008120  97.9      96.6      0          2806      9923890   9928363   -     
+CAA60459.1    ADRU_008121  75        71.1      0          10522     9928904   9954593   +     
+CAA60459.1    ADRU_008122  99.1      100       0          19340     9954589   9985258   +     
+intermediate  ADRU_008123  -         -         -          -         9985699   9986494   +     
+intermediate  ADRU_008124  -         -         -          -         9986513   9987230   +     
+intermediate  ADRU_008125  -         -         -          -         9987277   9988477   -     
+intermediate  ADRU_008126  -         -         -          -         9988467   9989130   -     
+intermediate  ADRU_008127  -         -         -          -         9989335   9990649   +     
+intermediate  ADRU_008128  -         -         -          -         9990683   9992063   +     
+intermediate  ADRU_008129  -         -         -          -         9992069   9992777   +     
+intermediate  ADRU_008130  -         -         -          -         9992796   9993423   -     
+intermediate  ADRU_008131  -         -         -          -         9993513   9994683   +     
+intermediate  ADRU_008132  -         -         -          -         9994961   9996392   +     
+intermediate  ADRU_008133  -         -         -          -         9996482   9998060   +     
+intermediate  ADRU_008134  -         -         -          -         9998122   9999796   +     
+intermediate  ADRU_008135  -         -         -          -         9999792   10001346  +     
+intermediate  ADRU_008136  -         -         -          -         10001391  10002039  +     
+intermediate  ADRU_008137  -         -         -          -         10002060  10003074  -     
+intermediate  ADRU_008138  -         -         -          -         10003099  10003600  -     
+intermediate  ADRU_008139  -         -         -          -         10003628  10004255  -     
+intermediate  ADRU_008140  -         -         -          -         10004931  10006410  +     
+intermediate  ADRU_008141  -         -         -          -         10006486  10007821  +     
+intermediate  ADRU_008142  -         -         -          -         10007810  10009049  +     
+
+
+GCA_024298985.1_ASM2429898v1
+============================
+CP085309.1
+----------
+Cluster 22, score 15.2944:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start    End      Strand
+intermediate  ADRV_007088  -         -         -          -         8685524  8687372  +     
+intermediate  ADRV_007089  -         -         -          -         8687368  8688679  +     
+intermediate  ADRV_007090  -         -         -          -         8688687  8689464  -     
+intermediate  ADRV_007091  -         -         -          -         8689823  8690723  +     
+intermediate  ADRV_007092  -         -         -          -         8691226  8694211  +     
+intermediate  ADRV_007093  -         -         -          -         8694586  8695369  +     
+intermediate  ADRV_007094  -         -         -          -         8695382  8696096  +     
+intermediate  ADRV_007095  -         -         -          -         8696133  8696496  +     
+intermediate  ADRV_007096  -         -         -          -         8696533  8697124  +     
+intermediate  ADRV_007097  -         -         -          -         8697209  8698190  +     
+intermediate  ADRV_007098  -         -         -          -         8698324  8699014  +     
+intermediate  ADRV_007099  -         -         -          -         8699010  8700036  +     
+intermediate  ADRV_007100  -         -         -          -         8700508  8702341  +     
+intermediate  ADRV_007101  -         -         -          -         8702494  8703766  +     
+intermediate  ADRV_007102  -         -         -          -         8703981  8704935  +     
+intermediate  ADRV_007103  -         -         -          -         8704949  8705969  +     
+intermediate  ADRV_007104  -         -         -          -         8705972  8706182  +     
+intermediate  ADRV_007105  -         -         -          -         8706178  8706916  +     
+CAA60461.1    ADRV_007106  35.3      67.7      1.45e-159  535       8706951  8711898  +     
+intermediate  ADRV_007107  -         -         -          -         8711975  8712812  -     
+intermediate  ADRV_007108  -         -         -          -         8712877  8713831  -     
+intermediate  ADRV_007109  -         -         -          -         8713980  8715132  -     
+intermediate  ADRV_007110  -         -         -          -         8715389  8716787  +     
+intermediate  ADRV_007111  -         -         -          -         8716796  8718161  +     
+intermediate  ADRV_007112  -         -         -          -         8718173  8719166  -     
+intermediate  ADRV_007113  -         -         -          -         8719436  8722157  +     
+intermediate  ADRV_007114  -         -         -          -         8722210  8722993  -     
+intermediate  ADRV_007115  -         -         -          -         8722989  8724156  -     
+CAA60468.1    ADRV_007116  95.5      100       2.74e-231  638       8724186  8725200  -     
+CAA60467.1    ADRV_007117  98.5      100       2.66e-235  649       8725552  8726584  +     
+intermediate  ADRV_007118  -         -         -          -         8726687  8727644  +     
+intermediate  ADRV_007119  -         -         -          -         8727657  8728872  +     
+intermediate  ADRV_007120  -         -         -          -         8728865  8729102  +     
+intermediate  ADRV_007121  -         -         -          -         8729204  8729837  -     
+CAA60459.1    ADRV_007122  72.7      59.3      0          8265      8729906  8748704  -     
+CAA60461.1    ADRV_007123  97.9      96.6      0          2806      8748708  8753181  -     
+CAA60459.1    ADRV_007124  64.4      17        0          2030      8753722  8760640  +     
+CAA60459.1    ADRV_007125  75.1      58        0          8681      8760585  8779410  +     
+CAA60459.1    ADRV_007126  99.1      100       0          19340     8779406  8810075  +     
+intermediate  ADRV_007127  -         -         -          -         8810516  8811311  +     
+intermediate  ADRV_007128  -         -         -          -         8811330  8812047  +     
+intermediate  ADRV_007129  -         -         -          -         8812094  8813294  -     
+intermediate  ADRV_007130  -         -         -          -         8813284  8813947  -     
+intermediate  ADRV_007131  -         -         -          -         8814152  8815466  +     
+intermediate  ADRV_007132  -         -         -          -         8815500  8816880  +     
+intermediate  ADRV_007133  -         -         -          -         8816886  8817594  +     
+intermediate  ADRV_007134  -         -         -          -         8817613  8818240  -     
+intermediate  ADRV_007135  -         -         -          -         8818330  8819500  +     
+intermediate  ADRV_007136  -         -         -          -         8819778  8821209  +     
+intermediate  ADRV_007137  -         -         -          -         8821299  8822877  +     
+intermediate  ADRV_007138  -         -         -          -         8822939  8824613  +     
+intermediate  ADRV_007139  -         -         -          -         8824609  8826163  +     
+intermediate  ADRV_007140  -         -         -          -         8826208  8826856  +     
+intermediate  ADRV_007141  -         -         -          -         8826877  8827891  -     
+intermediate  ADRV_007142  -         -         -          -         8827916  8828417  -     
+intermediate  ADRV_007143  -         -         -          -         8828445  8829072  -     
+intermediate  ADRV_007144  -         -         -          -         8829748  8831227  +     
+intermediate  ADRV_007145  -         -         -          -         8831303  8832638  +     
+intermediate  ADRV_007146  -         -         -          -         8832627  8833866  +     
+
+
+GCA_025568765.1_ASM2556876v1
+============================
+JANURZ010000026.1
+-----------------
+Cluster 23, score 6.5468:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start   End     Strand
+intermediate  ADUL_003997  -         -         -          -         99233   99725   +     
+intermediate  ADUL_003998  -         -         -          -         99705   99894   +     
+intermediate  ADUL_003999  -         -         -          -         99893   100679  +     
+intermediate  ADUL_004000  -         -         -          -         100728  101484  +     
+intermediate  ADUL_004001  -         -         -          -         101477  102512  +     
+intermediate  ADUL_004002  -         -         -          -         102876  103725  -     
+intermediate  ADUL_004003  -         -         -          -         103717  105436  -     
+intermediate  ADUL_004004  -         -         -          -         105422  106406  -     
+intermediate  ADUL_004005  -         -         -          -         106425  107976  -     
+intermediate  ADUL_004006  -         -         -          -         108238  109261  +     
+intermediate  ADUL_004007  -         -         -          -         109402  110653  +     
+intermediate  ADUL_004008  -         -         -          -         111239  114155  +     
+intermediate  ADUL_004009  -         -         -          -         114177  114303  -     
+intermediate  ADUL_004010  -         -         -          -         114497  115280  +     
+intermediate  ADUL_004011  -         -         -          -         115293  116007  +     
+intermediate  ADUL_004012  -         -         -          -         116044  116407  +     
+intermediate  ADUL_004013  -         -         -          -         116444  117035  +     
+intermediate  ADUL_004014  -         -         -          -         117118  118099  +     
+intermediate  ADUL_004015  -         -         -          -         118100  118790  +     
+intermediate  ADUL_004016  -         -         -          -         118786  119812  +     
+intermediate  ADUL_004017  -         -         -          -         120023  121862  +     
+intermediate  ADUL_004018  -         -         -          -         121783  121951  -     
+intermediate  ADUL_004019  -         -         -          -         121955  123137  -     
+intermediate  ADUL_004020  -         -         -          -         123259  124060  -     
+CAA60461.1    ADUL_004021  31.2      37.4      1.03e-56   225       124056  127317  -     
+CAA60461.1    ADUL_004022  35.9      68.1      3.33e-165  550       127412  132347  -     
+intermediate  ADUL_004023  -         -         -          -         132361  133099  -     
+intermediate  ADUL_004024  -         -         -          -         133095  133302  -     
+intermediate  ADUL_004025  -         -         -          -         133305  134325  -     
+intermediate  ADUL_004026  -         -         -          -         134339  135293  -     
+intermediate  ADUL_004027  -         -         -          -         135489  136638  -     
+intermediate  ADUL_004028  -         -         -          -         136845  138249  +     
+intermediate  ADUL_004029  -         -         -          -         138258  139644  +     
+intermediate  ADUL_004030  -         -         -          -         139673  140663  -     
+intermediate  ADUL_004031  -         -         -          -         140934  143676  +     
+intermediate  ADUL_004032  -         -         -          -         143744  144527  -     
+intermediate  ADUL_004033  -         -         -          -         144523  145690  -     
+CAA60468.1    ADUL_004034  92.3      100       3.14e-221  613       145720  146734  -     
+CAA60467.1    ADUL_004035  93.3      100       1.38e-221  614       146975  148007  +     
+intermediate  ADUL_004036  -         -         -          -         148082  149039  +     
+intermediate  ADUL_004037  -         -         -          -         149052  150267  +     
+intermediate  ADUL_004038  -         -         -          -         150263  150497  +     
+intermediate  ADUL_004039  -         -         -          -         150605  151229  -     
+CAA60459.1    ADUL_004040  69.7      25.5      0          3466      151304  159851  -     
+
+
+GCA_026898115.1_ASM2689811v1
+============================
+CP114036.1
+----------
+Cluster 24, score 8.7631:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start    End      Strand
+intermediate  AEBE_007502  -         -         -          -         9030965  9031727  -     
+intermediate  AEBE_007503  -         -         -          -         9031945  9032806  +     
+intermediate  AEBE_007504  -         -         -          -         9033593  9033770  +     
+intermediate  AEBE_007505  -         -         -          -         9033943  9034597  -     
+intermediate  AEBE_007506  -         -         -          -         9034972  9036535  +     
+intermediate  AEBE_007507  -         -         -          -         9036715  9037795  +     
+intermediate  AEBE_007508  -         -         -          -         9037928  9038495  +     
+intermediate  AEBE_007509  -         -         -          -         9038553  9039447  -     
+intermediate  AEBE_007510  -         -         -          -         9039762  9040527  +     
+intermediate  AEBE_007511  -         -         -          -         9041153  9041537  +     
+intermediate  AEBE_007512  -         -         -          -         9041547  9042504  +     
+intermediate  AEBE_007513  -         -         -          -         9042671  9045311  +     
+intermediate  AEBE_007514  -         -         -          -         9045400  9046456  +     
+intermediate  AEBE_007515  -         -         -          -         9046992  9048360  +     
+intermediate  AEBE_007516  -         -         -          -         9048569  9049931  +     
+intermediate  AEBE_007517  -         -         -          -         9049927  9050671  +     
+intermediate  AEBE_007518  -         -         -          -         9050769  9053547  +     
+intermediate  AEBE_007519  -         -         -          -         9053600  9054383  -     
+intermediate  AEBE_007520  -         -         -          -         9054379  9055546  -     
+CAA60459.1    AEBE_007521  50.1      59.7      0          5266      9055542  9074742  -     
+CAA60461.1    AEBE_007522  59.3      97        0          1658      9074744  9079232  -     
+CAA60468.1    AEBE_007523  72.6      99.1      2.08e-170  484       9079228  9080263  -     
+CAA60459.1    AEBE_007524  51.8      68.3      0          5998      9080443  9102985  +     
+CAA60459.1    AEBE_007525  57.9      35.5      0          3709      9102989  9113777  +     
+CAA60467.1    AEBE_007526  79.9      100       7.17e-183  516       9113839  9114877  +     
+intermediate  AEBE_007527  -         -         -          -         9114897  9115746  +     
+intermediate  AEBE_007528  -         -         -          -         9115742  9116003  +     
+intermediate  AEBE_007529  -         -         -          -         9115995  9117096  +     
+intermediate  AEBE_007530  -         -         -          -         9117106  9118189  +     
+intermediate  AEBE_007531  -         -         -          -         9118166  9118844  -     
+intermediate  AEBE_007532  -         -         -          -         9118939  9120184  -     
+intermediate  AEBE_007533  -         -         -          -         9120173  9121391  -     
+intermediate  AEBE_007534  -         -         -          -         9121479  9122397  +     
+intermediate  AEBE_007535  -         -         -          -         9122444  9123023  +     
+intermediate  AEBE_007536  -         -         -          -         9123413  9125033  +     
+intermediate  AEBE_007537  -         -         -          -         9125216  9126650  +     
+intermediate  AEBE_007538  -         -         -          -         9127217  9127523  +     
+intermediate  AEBE_007539  -         -         -          -         9127519  9128836  +     
+intermediate  AEBE_007540  -         -         -          -         9128846  9129662  +     
+intermediate  AEBE_007541  -         -         -          -         9129697  9130228  +     
+intermediate  AEBE_007542  -         -         -          -         9130322  9131330  +     
+intermediate  AEBE_007543  -         -         -          -         9131331  9132765  +     
+intermediate  AEBE_007544  -         -         -          -         9132761  9133613  +     
+intermediate  AEBE_007545  -         -         -          -         9133609  9134446  +     
+intermediate  AEBE_007546  -         -         -          -         9134442  9135519  +     
+intermediate  AEBE_007547  -         -         -          -         9135674  9136814  -     
+intermediate  AEBE_007548  -         -         -          -         9136884  9137925  +     
+intermediate  AEBE_007549  -         -         -          -         9137967  9138864  -     
+
+
+GCA_030122705.1_ASM3012270v1
+============================
+CP126066.1
+----------
+Cluster 25, score 13.0360:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start   End     Strand
+intermediate  AEGM_000318  -         -         -          -         333328  333607  +     
+intermediate  AEGM_000319  -         -         -          -         333779  334604  +     
+intermediate  AEGM_000320  -         -         -          -         334617  335448  +     
+intermediate  AEGM_000321  -         -         -          -         335461  336529  -     
+intermediate  AEGM_000322  -         -         -          -         336608  337127  -     
+intermediate  AEGM_000323  -         -         -          -         337486  338131  +     
+intermediate  AEGM_000324  -         -         -          -         338142  338943  +     
+intermediate  AEGM_000325  -         -         -          -         339144  339729  -     
+intermediate  AEGM_000326  -         -         -          -         339773  340496  -     
+intermediate  AEGM_000327  -         -         -          -         340817  341768  -     
+intermediate  AEGM_000328  -         -         -          -         341828  342539  -     
+intermediate  AEGM_000329  -         -         -          -         342548  343319  -     
+intermediate  AEGM_000330  -         -         -          -         343365  344118  -     
+intermediate  AEGM_000331  -         -         -          -         344104  345139  -     
+intermediate  AEGM_000332  -         -         -          -         345135  345525  -     
+intermediate  AEGM_000333  -         -         -          -         345521  346460  -     
+intermediate  AEGM_000334  -         -         -          -         346509  347592  -     
+intermediate  AEGM_000335  -         -         -          -         347584  348916  -     
+intermediate  AEGM_000336  -         -         -          -         349239  349617  +     
+intermediate  AEGM_000337  -         -         -          -         349613  351203  +     
+intermediate  AEGM_000338  -         -         -          -         351231  353196  +     
+intermediate  AEGM_000339  -         -         -          -         353231  353897  +     
+intermediate  AEGM_000340  -         -         -          -         353952  355797  +     
+intermediate  AEGM_000341  -         -         -          -         355869  357951  +     
+CAA60461.1    AEGM_000342  27.2      27.8      6.57e-28   128       357874  359224  -     
+CAA60461.1    AEGM_000343  35.4      31.6      9.19e-44   177       359285  360860  -     
+intermediate  AEGM_000344  -         -         -          -         360945  361725  -     
+intermediate  AEGM_000345  -         -         -          -         361721  364967  -     
+intermediate  AEGM_000346  -         -         -          -         364960  365212  -     
+intermediate  AEGM_000347  -         -         -          -         365444  366731  -     
+intermediate  AEGM_000348  -         -         -          -         367061  368144  +     
+intermediate  AEGM_000349  -         -         -          -         368146  369397  +     
+intermediate  AEGM_000350  -         -         -          -         369396  370641  +     
+intermediate  AEGM_000351  -         -         -          -         370968  371328  -     
+intermediate  AEGM_000352  -         -         -          -         371867  374483  +     
+CAA60459.1    AEGM_000353  67.5      71.5      0          8955      374690  398498  -     
+CAA60461.1    AEGM_000354  72.3      98.6      0          2148      398728  403258  +     
+CAA60459.1    AEGM_000355  61.4      67.3      0          7891      403263  427665  +     
+CAA60467.1    AEGM_000356  81.3      100       1.11e-193  544       427752  428790  -     
+CAA60468.1    AEGM_000357  78.6      97        4.41e-183  517       428952  430008  +     
+intermediate  AEGM_000358  -         -         -          -         430042  431209  +     
+intermediate  AEGM_000359  -         -         -          -         431233  432415  +     
+intermediate  AEGM_000360  -         -         -          -         432638  433211  -     
+intermediate  AEGM_000361  -         -         -          -         433207  434554  -     
+intermediate  AEGM_000362  -         -         -          -         434550  435549  -     
+intermediate  AEGM_000363  -         -         -          -         435545  436100  -     
+intermediate  AEGM_000364  -         -         -          -         436127  437192  -     
+intermediate  AEGM_000365  -         -         -          -         437354  438650  -     
+intermediate  AEGM_000366  -         -         -          -         438829  440137  -     
+intermediate  AEGM_000367  -         -         -          -         440136  442101  -     
+intermediate  AEGM_000368  -         -         -          -         442097  443324  -     
+intermediate  AEGM_000369  -         -         -          -         443371  444541  -     
+intermediate  AEGM_000370  -         -         -          -         444540  445428  -     
+intermediate  AEGM_000371  -         -         -          -         445417  446671  -     
+intermediate  AEGM_000372  -         -         -          -         446667  448458  -     
+intermediate  AEGM_000373  -         -         -          -         448454  449279  -     
+intermediate  AEGM_000374  -         -         -          -         449275  450301  -     
+intermediate  AEGM_000375  -         -         -          -         450297  451710  -     
+intermediate  AEGM_000376  -         -         -          -         451963  452254  -     
+intermediate  AEGM_000377  -         -         -          -         452398  453538  -     
+intermediate  AEGM_000378  -         -         -          -         453628  454231  +     
+
+
+GCA_031679605.1_ASM3167960v1
+============================
+CP117522.1
+----------
+Cluster 26, score 8.7560:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start    End      Strand
+intermediate  AELA_007751  -         -         -          -         9340931  9341693  -     
+intermediate  AELA_007752  -         -         -          -         9341911  9342772  +     
+intermediate  AELA_007753  -         -         -          -         9342839  9343340  -     
+intermediate  AELA_007754  -         -         -          -         9343385  9344039  -     
+intermediate  AELA_007755  -         -         -          -         9344414  9345977  +     
+intermediate  AELA_007756  -         -         -          -         9346156  9347236  +     
+intermediate  AELA_007757  -         -         -          -         9347375  9347942  +     
+intermediate  AELA_007758  -         -         -          -         9348000  9348894  -     
+intermediate  AELA_007759  -         -         -          -         9349212  9349977  +     
+intermediate  AELA_007760  -         -         -          -         9350451  9351423  +     
+intermediate  AELA_007761  -         -         -          -         9351505  9352864  +     
+intermediate  AELA_007762  -         -         -          -         9353031  9355671  +     
+intermediate  AELA_007763  -         -         -          -         9355760  9356816  +     
+intermediate  AELA_007764  -         -         -          -         9357016  9358384  +     
+intermediate  AELA_007765  -         -         -          -         9358592  9359954  +     
+intermediate  AELA_007766  -         -         -          -         9359950  9360694  +     
+intermediate  AELA_007767  -         -         -          -         9360792  9363570  +     
+intermediate  AELA_007768  -         -         -          -         9363623  9364406  -     
+intermediate  AELA_007769  -         -         -          -         9364402  9365569  -     
+CAA60459.1    AELA_007770  49.9      59.7      0          5243      9365565  9384756  -     
+CAA60461.1    AELA_007771  58.8      97        0          1647      9384758  9389246  -     
+CAA60468.1    AELA_007772  72.3      99.1      1.7e-169   482       9389242  9390277  -     
+CAA60459.1    AELA_007773  51.8      68.3      0          5999      9390457  9412990  +     
+CAA60459.1    AELA_007774  57.6      35.5      0          3673      9412994  9423788  +     
+CAA60467.1    AELA_007775  79.9      100       7.17e-183  516       9423850  9424888  +     
+intermediate  AELA_007776  -         -         -          -         9424908  9425757  +     
+intermediate  AELA_007777  -         -         -          -         9425753  9426014  +     
+intermediate  AELA_007778  -         -         -          -         9426006  9427107  +     
+intermediate  AELA_007779  -         -         -          -         9427117  9428200  +     
+intermediate  AELA_007780  -         -         -          -         9428177  9428855  -     
+intermediate  AELA_007781  -         -         -          -         9428949  9430194  -     
+intermediate  AELA_007782  -         -         -          -         9430183  9431401  -     
+intermediate  AELA_007783  -         -         -          -         9431513  9432407  +     
+intermediate  AELA_007784  -         -         -          -         9432454  9433033  +     
+intermediate  AELA_007785  -         -         -          -         9433425  9434985  +     
+intermediate  AELA_007786  -         -         -          -         9435168  9436599  +     
+intermediate  AELA_007787  -         -         -          -         9437166  9437472  +     
+intermediate  AELA_007788  -         -         -          -         9437468  9438785  +     
+intermediate  AELA_007789  -         -         -          -         9438795  9439611  +     
+intermediate  AELA_007790  -         -         -          -         9439646  9440177  +     
+intermediate  AELA_007791  -         -         -          -         9440271  9441279  +     
+intermediate  AELA_007792  -         -         -          -         9441280  9442714  +     
+intermediate  AELA_007793  -         -         -          -         9442710  9443562  +     
+intermediate  AELA_007794  -         -         -          -         9443558  9444395  +     
+intermediate  AELA_007795  -         -         -          -         9444391  9445468  +     
+intermediate  AELA_007796  -         -         -          -         9445623  9446763  -     
+intermediate  AELA_007797  -         -         -          -         9446833  9447859  +     
+intermediate  AELA_007798  -         -         -          -         9447901  9448798  -     
+
+
+GCA_033547115.1_ASM3354711v1
+============================
+CP137895.1
+----------
+Cluster 27, score 15.1496:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start   End     Strand
+intermediate  AENV_000227  -         -         -          -         243931  244894  -     
+intermediate  AENV_000228  -         -         -          -         245005  245890  -     
+intermediate  AENV_000229  -         -         -          -         246177  247401  -     
+intermediate  AENV_000230  -         -         -          -         247710  248526  +     
+intermediate  AENV_000231  -         -         -          -         248537  249338  +     
+intermediate  AENV_000232  -         -         -          -         249539  250124  -     
+intermediate  AENV_000233  -         -         -          -         250168  250891  -     
+intermediate  AENV_000234  -         -         -          -         251232  252183  -     
+intermediate  AENV_000235  -         -         -          -         252243  252954  -     
+intermediate  AENV_000236  -         -         -          -         252963  253713  -     
+intermediate  AENV_000237  -         -         -          -         253759  254512  -     
+intermediate  AENV_000238  -         -         -          -         254498  255533  -     
+intermediate  AENV_000239  -         -         -          -         255529  255919  -     
+intermediate  AENV_000240  -         -         -          -         255915  256854  -     
+intermediate  AENV_000241  -         -         -          -         256903  257986  -     
+intermediate  AENV_000242  -         -         -          -         257978  259310  -     
+intermediate  AENV_000243  -         -         -          -         259634  260012  +     
+intermediate  AENV_000244  -         -         -          -         260008  261598  +     
+intermediate  AENV_000245  -         -         -          -         261602  263591  +     
+intermediate  AENV_000246  -         -         -          -         263626  264292  +     
+intermediate  AENV_000247  -         -         -          -         264347  266192  +     
+intermediate  AENV_000248  -         -         -          -         266264  268343  +     
+CAA60461.1    AENV_000249  26.8      27.8      1.26e-26   124       268266  269616  -     
+CAA60461.1    AENV_000250  34.2      31.5      6e-42      171       269677  271252  -     
+intermediate  AENV_000251  -         -         -          -         271337  272117  -     
+intermediate  AENV_000252  -         -         -          -         272113  275356  -     
+intermediate  AENV_000253  -         -         -          -         275349  275601  -     
+intermediate  AENV_000254  -         -         -          -         275834  277121  -     
+intermediate  AENV_000255  -         -         -          -         277451  278534  +     
+intermediate  AENV_000256  -         -         -          -         278536  279787  +     
+intermediate  AENV_000257  -         -         -          -         279786  281031  +     
+intermediate  AENV_000258  -         -         -          -         281358  281718  -     
+intermediate  AENV_000259  -         -         -          -         282257  284549  +     
+intermediate  AENV_000260  -         -         -          -         284687  284873  +     
+CAA60459.1    AENV_000261  67.8      71.5      0          8980      285080  308924  -     
+CAA60461.1    AENV_000262  72.2      98.6      0          2143      309155  313685  +     
+CAA60459.1    AENV_000263  63.5      61.3      0          7271      313690  332671  +     
+CAA60459.1    AENV_000264  65.8      12.1      0          1514      332636  336341  +     
+CAA60459.1    AENV_000265  39.4      3.6       1.06e-60   231       336443  338144  +     
+CAA60467.1    AENV_000266  81.9      100       1.66e-195  548       338259  339297  -     
+CAA60468.1    AENV_000267  78.3      97        7.16e-182  514       339402  340515  +     
+intermediate  AENV_000268  -         -         -          -         340549  341716  +     
+intermediate  AENV_000269  -         -         -          -         341740  342922  +     
+intermediate  AENV_000270  -         -         -          -         343014  343377  +     
+intermediate  AENV_000271  -         -         -          -         343359  345060  -     
+intermediate  AENV_000272  -         -         -          -         345056  346055  -     
+intermediate  AENV_000273  -         -         -          -         346051  346678  -     
+intermediate  AENV_000274  -         -         -          -         346674  347151  -     
+intermediate  AENV_000275  -         -         -          -         347102  347645  -     
+intermediate  AENV_000276  -         -         -          -         347990  348851  +     
+intermediate  AENV_000277  -         -         -          -         349207  350503  -     
+intermediate  AENV_000278  -         -         -          -         350682  350925  -     
+intermediate  AENV_000279  -         -         -          -         350948  351902  -     
+intermediate  AENV_000280  -         -         -          -         351988  353113  -     
+intermediate  AENV_000281  -         -         -          -         353177  353468  -     
+intermediate  AENV_000282  -         -         -          -         353612  354752  -     
+intermediate  AENV_000283  -         -         -          -         354842  355445  +     
+intermediate  AENV_000284  -         -         -          -         355412  355895  -     
+intermediate  AENV_000285  -         -         -          -         356093  356750  +     
+intermediate  AENV_000286  -         -         -          -         356995  357232  +     
+intermediate  AENV_000287  -         -         -          -         357301  358390  -     
+intermediate  AENV_000288  -         -         -          -         358567  359206  +     
+intermediate  AENV_000289  -         -         -          -         359271  359940  +     
+intermediate  AENV_000290  -         -         -          -         359936  360251  +     
+intermediate  AENV_000291  -         -         -          -         360270  360867  -     
+intermediate  AENV_000292  -         -         -          -         361326  362247  +     
+intermediate  AENV_000293  -         -         -          -         362406  362772  -     
+intermediate  AENV_000294  -         -         -          -         362918  363824  +     
+intermediate  AENV_000295  -         -         -          -         363942  364689  -     
+
+
+GCA_040114435.1_ASM4011443v1
+============================
+CP157809.1
+----------
+Cluster 28, score 15.3064:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start   End     Strand
+intermediate  AFTO_000053  -         -         -          -         49950   51189   -     
+intermediate  AFTO_000054  -         -         -          -         51178   52513   -     
+intermediate  AFTO_000055  -         -         -          -         52589   54068   -     
+intermediate  AFTO_000056  -         -         -          -         54735   55362   +     
+intermediate  AFTO_000057  -         -         -          -         55390   55891   +     
+intermediate  AFTO_000058  -         -         -          -         55916   56930   +     
+intermediate  AFTO_000059  -         -         -          -         56951   57599   -     
+intermediate  AFTO_000060  -         -         -          -         57644   59198   -     
+intermediate  AFTO_000061  -         -         -          -         59194   60868   -     
+intermediate  AFTO_000062  -         -         -          -         60930   62508   -     
+intermediate  AFTO_000063  -         -         -          -         62598   64029   -     
+intermediate  AFTO_000064  -         -         -          -         64307   65477   -     
+intermediate  AFTO_000065  -         -         -          -         65567   66194   +     
+intermediate  AFTO_000066  -         -         -          -         66213   66921   -     
+intermediate  AFTO_000067  -         -         -          -         66927   68307   -     
+intermediate  AFTO_000068  -         -         -          -         68341   69655   -     
+intermediate  AFTO_000069  -         -         -          -         69860   70523   +     
+intermediate  AFTO_000070  -         -         -          -         70513   71713   +     
+intermediate  AFTO_000071  -         -         -          -         71760   72477   -     
+intermediate  AFTO_000072  -         -         -          -         72496   73291   -     
+CAA60459.1    AFTO_000073  99.1      99.9      0          19324     73732   104374  -     
+CAA60459.1    AFTO_000074  78.2      38.4      0          5826      104397  116502  -     
+CAA60459.1    AFTO_000075  79.3      34.2      0          5177      116629  130084  -     
+CAA60461.1    AFTO_000076  97.9      96.6      0          2806      130625  135098  +     
+CAA60459.1    AFTO_000077  71.6      59.3      0          8109      135102  153888  +     
+intermediate  AFTO_000078  -         -         -          -         153957  154590  +     
+intermediate  AFTO_000079  -         -         -          -         154692  154929  -     
+intermediate  AFTO_000080  -         -         -          -         154922  156137  -     
+intermediate  AFTO_000081  -         -         -          -         156150  157107  -     
+CAA60467.1    AFTO_000082  98.5      100       2.66e-235  649       157210  158242  -     
+CAA60468.1    AFTO_000083  95.5      100       2.74e-231  638       158594  159608  +     
+intermediate  AFTO_000084  -         -         -          -         159638  160805  +     
+intermediate  AFTO_000085  -         -         -          -         160801  161584  +     
+intermediate  AFTO_000086  -         -         -          -         161637  164358  -     
+intermediate  AFTO_000087  -         -         -          -         164628  165621  +     
+intermediate  AFTO_000088  -         -         -          -         165633  166998  -     
+intermediate  AFTO_000089  -         -         -          -         167007  168405  -     
+intermediate  AFTO_000090  -         -         -          -         168662  169814  +     
+intermediate  AFTO_000091  -         -         -          -         169963  170917  +     
+intermediate  AFTO_000092  -         -         -          -         170982  171819  +     
+CAA60461.1    AFTO_000093  35.3      67.7      1.45e-159  535       171896  176843  -     
+intermediate  AFTO_000094  -         -         -          -         176878  177616  -     
+intermediate  AFTO_000095  -         -         -          -         177612  177822  -     
+intermediate  AFTO_000096  -         -         -          -         177825  178845  -     
+intermediate  AFTO_000097  -         -         -          -         178859  179228  -     
+intermediate  AFTO_000098  -         -         -          -         179224  179812  -     
+intermediate  AFTO_000099  -         -         -          -         180027  181299  -     
+intermediate  AFTO_000100  -         -         -          -         181452  183285  -     
+intermediate  AFTO_000101  -         -         -          -         183757  184783  -     
+intermediate  AFTO_000102  -         -         -          -         184779  185469  -     
+intermediate  AFTO_000103  -         -         -          -         185603  186584  -     
+intermediate  AFTO_000104  -         -         -          -         186669  187260  -     
+intermediate  AFTO_000105  -         -         -          -         187297  187660  -     
+intermediate  AFTO_000106  -         -         -          -         187697  188411  -     
+intermediate  AFTO_000107  -         -         -          -         188424  189207  -     
+intermediate  AFTO_000108  -         -         -          -         189582  192567  -     
+intermediate  AFTO_000109  -         -         -          -         193070  193970  -     
+intermediate  AFTO_000110  -         -         -          -         194329  195106  +     
+intermediate  AFTO_000111  -         -         -          -         195114  196425  -     
+intermediate  AFTO_000112  -         -         -          -         196421  198269  -     
+
+
+GCA_040653035.1_ASM4065303v1
+============================
+JBEZNG010000014.1
+-----------------
+Cluster 29, score 14.0686:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start   End     Strand
+intermediate  AHZW_005168  -         -         -          -         101169  101772  -     
+intermediate  AHZW_005169  -         -         -          -         101862  103002  +     
+intermediate  AHZW_005170  -         -         -          -         103145  103436  +     
+intermediate  AHZW_005171  -         -         -          -         103689  105102  +     
+intermediate  AHZW_005172  -         -         -          -         105098  106124  +     
+intermediate  AHZW_005173  -         -         -          -         106120  106945  +     
+intermediate  AHZW_005174  -         -         -          -         106941  108732  +     
+intermediate  AHZW_005175  -         -         -          -         108728  109982  +     
+intermediate  AHZW_005176  -         -         -          -         109971  110859  +     
+intermediate  AHZW_005177  -         -         -          -         110858  112028  +     
+intermediate  AHZW_005178  -         -         -          -         112070  113297  +     
+intermediate  AHZW_005179  -         -         -          -         113293  115267  +     
+intermediate  AHZW_005180  -         -         -          -         115266  116574  +     
+intermediate  AHZW_005181  -         -         -          -         116753  118049  +     
+intermediate  AHZW_005182  -         -         -          -         118366  119338  +     
+intermediate  AHZW_005183  -         -         -          -         119334  119961  +     
+intermediate  AHZW_005184  -         -         -          -         119957  120956  +     
+intermediate  AHZW_005185  -         -         -          -         120952  122299  +     
+intermediate  AHZW_005186  -         -         -          -         122295  122868  +     
+intermediate  AHZW_005187  -         -         -          -         123090  124272  -     
+intermediate  AHZW_005188  -         -         -          -         124296  125463  -     
+CAA60468.1    AHZW_005189  78.3      97        1.79e-182  515       125497  126553  -     
+CAA60467.1    AHZW_005190  80.8      100       4.15e-192  541       126619  127753  +     
+CAA60459.1    AHZW_005191  61        67.3      0          7856      127840  152245  -     
+CAA60461.1    AHZW_005192  72.2      98.6      0          2145      152250  156780  -     
+CAA60459.1    AHZW_005193  67.8      71.5      0          8991      157010  180815  +     
+intermediate  AHZW_005194  -         -         -          -         181022  183638  -     
+intermediate  AHZW_005195  -         -         -          -         184177  184537  +     
+intermediate  AHZW_005196  -         -         -          -         184533  185019  +     
+intermediate  AHZW_005197  -         -         -          -         184865  186110  -     
+intermediate  AHZW_005198  -         -         -          -         186109  187360  -     
+intermediate  AHZW_005199  -         -         -          -         187362  188445  -     
+intermediate  AHZW_005200  -         -         -          -         188775  190062  +     
+intermediate  AHZW_005201  -         -         -          -         190295  190547  +     
+CAA60461.1    AHZW_005202  28.5      67        3.51e-94   339       190540  193810  +     
+intermediate  AHZW_005203  -         -         -          -         193806  194586  +     
+CAA60461.1    AHZW_005204  34.6      31.6      4.46e-42   172       194671  196246  +     
+CAA60461.1    AHZW_005205  27.5      27.8      1.19e-27   127       196310  197660  +     
+intermediate  AHZW_005206  -         -         -          -         197583  199665  -     
+intermediate  AHZW_005207  -         -         -          -         199737  201582  -     
+intermediate  AHZW_005208  -         -         -          -         201637  202303  -     
+intermediate  AHZW_005209  -         -         -          -         202338  204303  -     
+intermediate  AHZW_005210  -         -         -          -         204331  205921  -     
+intermediate  AHZW_005211  -         -         -          -         205917  206295  -     
+intermediate  AHZW_005212  -         -         -          -         206619  207951  +     
+intermediate  AHZW_005213  -         -         -          -         207943  209026  +     
+intermediate  AHZW_005214  -         -         -          -         209075  210014  +     
+intermediate  AHZW_005215  -         -         -          -         210010  210400  +     
+intermediate  AHZW_005216  -         -         -          -         210396  211431  +     
+intermediate  AHZW_005217  -         -         -          -         211417  212170  +     
+intermediate  AHZW_005218  -         -         -          -         212216  212987  +     
+intermediate  AHZW_005219  -         -         -          -         212996  213707  +     
+intermediate  AHZW_005220  -         -         -          -         213767  214718  +     
+intermediate  AHZW_005221  -         -         -          -         215059  215782  +     
+intermediate  AHZW_005222  -         -         -          -         215826  216411  +     
+intermediate  AHZW_005223  -         -         -          -         216612  217413  -     
+intermediate  AHZW_005224  -         -         -          -         217424  218069  -     
+intermediate  AHZW_005225  -         -         -          -         218569  218947  +     
+intermediate  AHZW_005226  -         -         -          -         219026  220094  +     
+intermediate  AHZW_005227  -         -         -          -         220107  220938  -     
+intermediate  AHZW_005228  -         -         -          -         220951  221776  -     
+intermediate  AHZW_005229  -         -         -          -         221948  222227  -     
+
+
+GCA_041365895.1_ASM4136589v1
+============================
+JBGDLZ010000026.1
+-----------------
+Cluster 30, score 6.5468:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start   End     Strand
+intermediate  AIXQ_006262  -         -         -          -         99233   99725   +     
+intermediate  AIXQ_006263  -         -         -          -         99705   99894   +     
+intermediate  AIXQ_006264  -         -         -          -         99893   100679  +     
+intermediate  AIXQ_006265  -         -         -          -         100728  101484  +     
+intermediate  AIXQ_006266  -         -         -          -         101477  102512  +     
+intermediate  AIXQ_006267  -         -         -          -         102876  103725  -     
+intermediate  AIXQ_006268  -         -         -          -         103717  105436  -     
+intermediate  AIXQ_006269  -         -         -          -         105422  106406  -     
+intermediate  AIXQ_006270  -         -         -          -         106425  107976  -     
+intermediate  AIXQ_006271  -         -         -          -         108238  109261  +     
+intermediate  AIXQ_006272  -         -         -          -         109402  110653  +     
+intermediate  AIXQ_006273  -         -         -          -         111239  114155  +     
+intermediate  AIXQ_006274  -         -         -          -         114177  114303  -     
+intermediate  AIXQ_006275  -         -         -          -         114497  115280  +     
+intermediate  AIXQ_006276  -         -         -          -         115293  116007  +     
+intermediate  AIXQ_006277  -         -         -          -         116044  116407  +     
+intermediate  AIXQ_006278  -         -         -          -         116444  117035  +     
+intermediate  AIXQ_006279  -         -         -          -         117118  118099  +     
+intermediate  AIXQ_006280  -         -         -          -         118100  118790  +     
+intermediate  AIXQ_006281  -         -         -          -         118786  119812  +     
+intermediate  AIXQ_006282  -         -         -          -         120023  121862  +     
+intermediate  AIXQ_006283  -         -         -          -         121955  123137  -     
+intermediate  AIXQ_006284  -         -         -          -         123259  124060  -     
+CAA60461.1    AIXQ_006285  31.2      37.4      1.03e-56   225       124056  127317  -     
+CAA60461.1    AIXQ_006286  35.9      68.1      3.33e-165  550       127412  132347  -     
+intermediate  AIXQ_006287  -         -         -          -         132361  133099  -     
+intermediate  AIXQ_006288  -         -         -          -         133095  133302  -     
+intermediate  AIXQ_006289  -         -         -          -         133305  134325  -     
+intermediate  AIXQ_006290  -         -         -          -         134339  135293  -     
+intermediate  AIXQ_006291  -         -         -          -         135489  136638  -     
+intermediate  AIXQ_006292  -         -         -          -         136845  138249  +     
+intermediate  AIXQ_006293  -         -         -          -         138258  139644  +     
+intermediate  AIXQ_006294  -         -         -          -         139673  140663  -     
+intermediate  AIXQ_006295  -         -         -          -         140934  143676  +     
+intermediate  AIXQ_006296  -         -         -          -         143744  144527  -     
+intermediate  AIXQ_006297  -         -         -          -         144523  145690  -     
+CAA60468.1    AIXQ_006298  92.3      100       3.14e-221  613       145720  146734  -     
+CAA60467.1    AIXQ_006299  93.3      100       1.38e-221  614       146975  148007  +     
+intermediate  AIXQ_006300  -         -         -          -         148082  149039  +     
+intermediate  AIXQ_006301  -         -         -          -         149052  150267  +     
+intermediate  AIXQ_006302  -         -         -          -         150263  150497  +     
+intermediate  AIXQ_006303  -         -         -          -         150605  151229  -     
+CAA60459.1    AIXQ_006304  69.7      25.5      0          3466      151304  159851  -     

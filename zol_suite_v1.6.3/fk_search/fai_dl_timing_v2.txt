@@ -1,0 +1,386 @@
+You are using a database created after v1.6.0, attempting to process assuming this is the case...
+********************************************************************************************
+WARNING: DIAMOND linclust was used in prepTG to collapse redundancy in the protein database
+used for DIAMOND blastp-based searching of gene clusters in fai. This means that stats on
+sequence similarity reported for some hits are proxied from their representative proteins.
+********************************************************************************************
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000226995.2_ASM22699v2's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000204605.2_ASM20460v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000241835.2_ASM24183v2's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000179195.1_ASM17919v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000213055.1_ASM21305v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000177195.2_ASM17719v2's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000177175.2_ASM17717v2's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000220705.2_ASM22070v2's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000091305.1_ASM9130v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000163875.1_Strep_clav_ATCC27064's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000253235.1_ASM25323v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000203835.1_ASM20383v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000009765.2_ASM976v2's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000010605.1_ASM1060v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000373305.1_ASM37330v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000340335.2_ASM34033v2's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000373465.1_ASM37346v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000373445.1_ASM37344v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000331185.2_ASM33118v2's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000373645.1_ASM37364v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000364805.1_ASM36480v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000375625.1_ASM37562v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000373565.1_ASM37356v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000382745.1_ASM38274v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000359525.1_ASM35952v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000495635.2_GB94_v2's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000495755.1_PVA94_07.23's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000716745.1_ASM71674v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000716815.1_ASM71681v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000716845.1_ASM71684v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000717015.1_ASM71701v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000717065.1_ASM71706v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000718295.1_ASM71829v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000718455.1_ASM71845v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000718675.1_ASM71867v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000718835.1_ASM71883v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000719925.1_ASM71992v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000720395.1_ASM72039v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000720685.1_ASM72068v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000721685.1_ASM72168v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000721595.1_ASM72159v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000819545.1_ASM81954v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_000932225.2_ASM93222v2's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_001278075.1_ASM127807v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_001426615.1_Root1319's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_001443625.1_ASM144362v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_001507435.1_ASM150743v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_001509785.1_ASM150978v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_001513985.1_ASM151398v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_001577385.1_ASM157738v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_001685355.1_ASM168535v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_001704195.1_ASM170419v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_001886595.1_ASM188659v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_001905665.1_ASM190566v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_001983595.1_ASM198359v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_001984445.1_ASM198444v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_002019855.1_ASM201985v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_002082175.1_ASM208217v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_002154375.1_ASM215437v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_002300485.1_ASM230048v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_002705685.1_ASM270568v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_002633395.1_ASM263339v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_002705665.1_ASM270566v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_002711365.1_ASM271136v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_002803065.1_ASM280306v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_002910775.2_ASM291077v2's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_002910725.2_ASM291072v2's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_002943895.1_ASM294389v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_003116725.1_ASM311672v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_003122365.1_ASM312236v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_003254205.1_ASM325420v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_003268965.1_ASM326896v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_003363195.1_ASM336319v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_003352445.1_ASM335244v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_003384865.1_ASM338486v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_003454755.1_ASM345475v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_003949505.1_ASM394950v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_004000395.1_ASM400039v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_004104505.1_ASM410450v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_004104485.1_ASM410448v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_004124335.1_ASM412433v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_004195745.1_ASM419574v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_004195885.1_ASM419588v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_004195855.1_ASM419585v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_004196145.1_ASM419614v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_004784465.1_ASM478446v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_004798565.1_ASM479856v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_006788935.1_ASM678893v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_007113425.2_ASM711342v2's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_007113465.1_ASM711346v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_007113485.2_ASM711348v2's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_007113525.2_ASM711352v2's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_007113505.2_ASM711350v2's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_008124905.1_ASM812490v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_008124975.1_ASM812497v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_008704425.1_ASM870442v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_008931305.1_ASM893130v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_009811595.1_ASM981159v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_009831155.1_ASM983115v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_009862345.1_ASM986234v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_009862445.1_ASM986244v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_009863175.1_ASM986317v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_009863285.1_ASM986328v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_009865075.1_ASM986507v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_010548165.1_ASM1054816v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_012034235.1_ASM1203423v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_013357935.1_ASM1335793v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_013307045.1_ASM1330704v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_013358025.1_ASM1335802v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_013358065.1_ASM1335806v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_013363505.1_ASM1336350v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_013363475.1_ASM1336347v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_013364095.1_ASM1336409v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_013364375.1_ASM1336437v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_013376795.1_ASM1337679v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_013693715.1_ASM1369371v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_013913525.1_ASM1391352v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_014138855.1_ASM1413885v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_014204745.1_ASM1420474v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_014217585.1_ASM1421758v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_014649175.1_ASM1464917v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_014649355.1_ASM1464935v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_014650095.1_ASM1465009v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_014650235.1_ASM1465023v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_014650475.1_ASM1465047v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_014650675.1_ASM1465067v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_014651055.1_ASM1465105v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_014655195.1_ASM1465519v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_014655715.1_ASM1465571v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_014656035.1_ASM1465603v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_014701095.1_ASM1470109v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_014854025.1_ASM1485402v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_014930355.1_ASM1493035v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_016755835.1_ASM1675583v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_016906245.1_ASM1690624v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_017876235.1_ASM1787623v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_017933235.1_ASM1793323v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_018070145.1_ASM1807014v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_018070665.1_ASM1807066v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_018310575.1_ASM1831057v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_018619135.1_ASM1861913v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_018619155.1_ASM1861915v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_018619585.1_ASM1861958v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_018619495.1_ASM1861949v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_019090105.1_ASM1909010v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_019219685.1_ASM1921968v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_020092035.1_ASM2009203v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_020092045.1_ASM2009204v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_020312215.1_ASM2031221v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_020312315.1_ASM2031231v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_020521255.1_ASM2052125v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_020783535.1_ASM2078353v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_020783515.1_ASM2078351v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_020783575.1_ASM2078357v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_021383925.1_ASM2138392v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_021496465.1_ASM2149646v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_021442415.2_ASM2144241v2's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_021654815.1_ASM2165481v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_022015835.1_ASM2201583v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_022026295.1_ASM2202629v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_022399585.1_ASM2239958v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_022399495.1_ASM2239949v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_022869105.1_ASM2286910v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_023713605.1_ASM2371360v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_024268275.1_ASM2426827v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_024349765.1_ASM2434976v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_024365045.1_ASM2436504v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_024761905.1_ASM2476190v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_024760485.1_ASM2476048v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_026210455.1_ASM2621045v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_026339595.1_ASM2633959v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_026339695.1_ASM2633969v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_026339705.1_ASM2633970v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_026339895.1_ASM2633989v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_026340135.1_ASM2634013v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_026341695.1_ASM2634169v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_026342195.1_ASM2634219v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_026342305.1_ASM2634230v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_026342745.1_ASM2634274v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_026343345.1_ASM2634334v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_026343795.1_ASM2634379v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_026635925.1_ASM2663592v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_026636035.1_ASM2663603v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_029893905.1_ASM2989390v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_030345275.1_ASM3034527v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_030406415.1_ASM3040641v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_030544505.1_ASM3054450v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_030815045.1_ASM3081504v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_031192905.1_ASM3119290v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_032121415.1_ASM3212141v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_032229305.1_ASM3222930v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_033790905.1_ASM3379090v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_033584035.1_ASM3358403v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_033791965.1_ASM3379196v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_033792125.1_ASM3379212v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_033792825.1_ASM3379282v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_033792845.1_ASM3379284v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_033792865.1_ASM3379286v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_033793045.1_ASM3379304v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_033793635.1_ASM3379363v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_033793865.1_ASM3379386v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_033793995.1_ASM3379399v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_033793985.1_ASM3379398v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_033794185.1_ASM3379418v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_033794215.1_ASM3379421v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_033794285.1_ASM3379428v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_033794365.1_ASM3379436v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_033795025.1_ASM3379502v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_033795125.1_ASM3379512v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_033795145.1_ASM3379514v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_035917435.1_ASM3591743v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_035917135.1_ASM3591713v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_035917535.1_ASM3591753v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_035917555.1_ASM3591755v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_035917635.1_ASM3591763v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_035917715.1_ASM3591771v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_035917735.1_ASM3591773v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_035917615.1_ASM3591761v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_035917855.1_ASM3591785v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_035918215.1_ASM3591821v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_035955795.1_ASM3595579v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_035991205.1_ASM3599120v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036010585.1_ASM3601058v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036010605.1_ASM3601060v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036013545.1_ASM3601354v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036013625.1_ASM3601362v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036189065.1_ASM3618906v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036189845.1_ASM3618984v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036226845.1_ASM3622684v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036227005.1_ASM3622700v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036226945.1_ASM3622694v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036226985.1_ASM3622698v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036227025.1_ASM3622702v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036232025.1_ASM3623202v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036237255.1_ASM3623725v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036239155.1_ASM3623915v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036238395.1_ASM3623839v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036240075.1_ASM3624007v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036249245.1_ASM3624924v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036347195.1_ASM3634719v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036898295.1_ASM3689829v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036898635.1_ASM3689863v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036898685.1_ASM3689868v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_036898735.1_ASM3689873v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_037204025.1_ASM3720402v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_037413555.1_ASM3741355v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_038242915.1_ASM3824291v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_039536665.1_ASM3953666v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_039540655.1_ASM3954065v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040296225.1_ASM4029622v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040298925.1_ASM4029892v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040299405.1_ASM4029940v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040299625.1_ASM4029962v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040299665.1_ASM4029966v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040299865.1_ASM4029986v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040300465.1_ASM4030046v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040300585.1_ASM4030058v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040302265.1_ASM4030226v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040302045.1_ASM4030204v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040303405.1_ASM4030340v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040303545.1_ASM4030354v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040303655.1_ASM4030365v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040605775.1_ASM4060577v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040605855.1_ASM4060585v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040605895.1_ASM4060589v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040605875.1_ASM4060587v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040606145.1_ASM4060614v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040606205.1_ASM4060620v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040607215.1_ASM4060721v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040607715.1_ASM4060771v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040607875.1_ASM4060787v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040608715.1_ASM4060871v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040608915.1_ASM4060891v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040609055.1_ASM4060905v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040609275.1_ASM4060927v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040609315.1_ASM4060931v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040609675.1_ASM4060967v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040609735.1_ASM4060973v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040609815.1_ASM4060981v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040610835.1_ASM4061083v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040610885.1_ASM4061088v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040611055.1_ASM4061105v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040611115.1_ASM4061111v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040630125.1_ASM4063012v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040631895.1_ASM4063189v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040631865.1_ASM4063186v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040632035.1_ASM4063203v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040632885.1_ASM4063288v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040633275.1_ASM4063327v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040633305.1_ASM4063330v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040633295.1_ASM4063329v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040633595.1_ASM4063359v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040633725.1_ASM4063372v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040633695.1_ASM4063369v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040633775.1_ASM4063377v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040635445.1_ASM4063544v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040637815.1_ASM4063781v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040640435.1_ASM4064043v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040640495.1_ASM4064049v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040640515.1_ASM4064051v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040641875.1_ASM4064187v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040642315.1_ASM4064231v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040642515.1_ASM4064251v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040643915.1_ASM4064391v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040646055.1_ASM4064605v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040652015.1_ASM4065201v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040655335.1_ASM4065533v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040656335.1_ASM4065633v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040677835.1_ASM4067783v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040677855.1_ASM4067785v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040677975.1_ASM4067797v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040678475.1_ASM4067847v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040680255.1_ASM4068025v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040680285.1_ASM4068028v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040680415.1_ASM4068041v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040683395.1_ASM4068339v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040683635.1_ASM4068363v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040683595.1_ASM4068359v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040683755.1_ASM4068375v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040685335.1_ASM4068533v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040703395.1_ASM4070339v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040703415.1_ASM4070341v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_040704035.1_ASM4070403v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_041438585.1_ASM4143858v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_041438645.1_ASM4143864v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_041439005.1_ASM4143900v1's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_900101975.1_IMG_taxon_2636416059_annotated_assembly's proteome.
+Warning: Did not detect homology whatsoever at requested E-value for sample GCA_900104935.1_IMG_taxon_2690315611_annotated_assembly's proteome.
+Running fai version 1.6.3
+Beginning fai searches using protein queries FASTA file at: key_protein_queries.faa
+--------------------
+Step 1
+--------------------
+Getting protein sequences of known gene-cluster instance(s).
+--------------------
+Step 2
+--------------------
+Running DIAMOND BLASTp and Processing Results.
+--------------------
+Step 3
+--------------------
+Preliminary filtering of target genomes for candidates potentially
+harboring a gene cluster of interest.
+Will be considering 74 of 6191 target genomes as candidates for harboring the gene cluster of interest.
+--------------------
+Step 4
+--------------------
+Identifying homologous gene-cluster segments.
+Delineating gene clusters for 74 genomes determined as candidates for potential carriage.
+  0%|          | 0/74 [00:00<?, ?it/s] 12%|█▏        | 9/74 [00:00<00:01, 48.57it/s] 23%|██▎       | 17/74 [00:00<00:00, 60.28it/s] 38%|███▊      | 28/74 [00:00<00:00, 78.77it/s] 61%|██████    | 45/74 [00:00<00:00, 71.68it/s] 72%|███████▏  | 53/74 [00:02<00:01, 16.45it/s] 80%|███████▉  | 59/74 [00:02<00:01, 13.96it/s] 85%|████████▌ | 63/74 [00:03<00:00, 13.53it/s] 89%|████████▉ | 66/74 [00:03<00:00, 14.38it/s] 93%|█████████▎| 69/74 [00:03<00:00, 13.53it/s] 97%|█████████▋| 72/74 [00:03<00:00, 11.99it/s]100%|██████████| 74/74 [00:04<00:00, 12.04it/s]100%|██████████| 74/74 [00:04<00:00, 17.99it/s]
+--------------------
+Step 5
+--------------------
+Create overview plots + spreadsheets showing homology of candidate gene clusters to queries.
+Done running fai!
+Final results can be found at: 
+/workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/zol_v1.6.3_analysis/fai_dl_Results_v2/Final_Results/
+	Command being timed: "fai -pq key_protein_queries.faa -m 1.0 -e 1e-5 -sct 0.0 -f 25000 -o fai_dl_Results_v2/ -tg prepTG_DiamondLinclust_v1.6.3_DB/ -c 50 -mgd 15 -mdg 4 -ds default"
+	User time (seconds): 2914.28
+	System time (seconds): 39.19
+	Percent of CPU this job got: 2327%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:06.90
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 5276592
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7242127
+	Voluntary context switches: 28291
+	Involuntary context switches: 7588
+	Swaps: 0
+	File system inputs: 12633232
+	File system outputs: 218192
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

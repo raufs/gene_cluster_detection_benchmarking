@@ -1,0 +1,5 @@
+color	method	time_minutes	gc_identified
+zol	fai v1.5.10	18.08	6163
+zol	fai v1.6.3	10.10	6163
+gator-gc	gator-gc	46.99	6105#~31 minutes till last file in window_genbanks/ created based on timestamps
+cblaster	cblaster	60	6163#<2 minutes for search alone without ig - but with ig flag it extends to >24 hours for just search

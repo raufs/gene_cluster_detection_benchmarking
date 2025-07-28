@@ -1,0 +1,34 @@
+Importing genomicsqlite failed, falling back to SQLite3
+[02:24:42] INFO - Starting cblaster in local mode
+[02:24:42] INFO - Using 'mid' DIAMOND sensitivity level
+[02:26:17] INFO - Found 43972 hits meeting score thresholds for local search
+[02:26:17] INFO - Fetching genomic context of hits
+[02:26:17] INFO - Querying local SQLite3 database: /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/cblaster_DB.sqlite3
+[02:26:17] INFO - Searching for clustered hits across 6191 organisms
+[02:26:18] INFO - Searching for intermediate genes
+[14:41:15] INFO - Writing current search session to /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/cblaster_ig_rpp_search_session.json
+[14:41:18] INFO - Writing summary to /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/cblaster_ig_rpp_summary.tsv
+[14:41:18] INFO - Done.
+	Command being timed: "cblaster search --mode local -db cblaster_DB.dmnd --output cblaster_ig_rpp_summary.tsv --dmnd_sensitivity mid -qf queries/rpp_queries.faa -per 100 --max_evalue 1e-5 --min_identity 0.0 --min_coverage 0.0 -s cblaster_ig_rpp_search_session.json -ig -cp 50 -md 5000 -g 5000 -mic 1000000 -hs 1000000"
+	User time (seconds): 79995.26
+	System time (seconds): 52982.93
+	Percent of CPU this job got: 101%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 36:16:36
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3092956
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11007922
+	Voluntary context switches: 15539
+	Involuntary context switches: 240286
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 58960
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

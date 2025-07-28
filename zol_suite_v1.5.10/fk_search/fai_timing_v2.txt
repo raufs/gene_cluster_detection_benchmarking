@@ -1,0 +1,64 @@
+/workspace/local/rauf/zol_development/benchmark/zol_v1.5.10_env/lib/python3.10/site-packages/zol/util.py:20: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources  # part of setuptools
+Running fai version 1.5.10
+Beginning fai searches using protein queries FASTA file at: key_protein_queries.faa
+--------------------
+Step 1
+--------------------
+Getting protein sequences of known gene-cluster instance(s).
+--------------------
+Step 2
+--------------------
+Running DIAMOND BLASTp and Processing Results.
+--------------------
+Step 3
+--------------------
+Loading target genomes database prepared by prepTG.
+--------------------
+Step 4
+--------------------
+Identifying homologous gene-cluster segments.
+Determining gene cluster homologous hits for 1000 genomes
+  0%|          | 0/1000 [00:00<?, ?it/s] 44%|████▎     | 435/1000 [00:00<00:00, 4347.99it/s] 99%|█████████▉| 989/1000 [00:00<00:00, 5048.84it/s]100%|██████████| 1000/1000 [00:06<00:00, 162.01it/s]
+Determining gene cluster homologous hits for 1000 genomes
+  0%|          | 0/1000 [00:00<?, ?it/s] 41%|████      | 406/1000 [00:00<00:00, 4029.30it/s] 93%|█████████▎| 933/1000 [00:00<00:00, 4755.30it/s]100%|██████████| 1000/1000 [00:04<00:00, 231.77it/s]
+Determining gene cluster homologous hits for 1000 genomes
+  0%|          | 0/1000 [00:00<?, ?it/s] 41%|████      | 409/1000 [00:00<00:00, 4074.87it/s] 93%|█████████▎| 929/1000 [00:00<00:00, 4732.97it/s]100%|██████████| 1000/1000 [00:07<00:00, 137.64it/s]
+Determining gene cluster homologous hits for 1000 genomes
+  0%|          | 0/1000 [00:00<?, ?it/s] 43%|████▎     | 433/1000 [00:00<00:00, 4317.25it/s] 98%|█████████▊| 979/1000 [00:00<00:00, 4987.41it/s]100%|██████████| 1000/1000 [00:04<00:00, 246.56it/s]
+Determining gene cluster homologous hits for 1000 genomes
+  0%|          | 0/1000 [00:00<?, ?it/s] 42%|████▏     | 421/1000 [00:00<00:00, 3432.19it/s]100%|██████████| 1000/1000 [00:00<00:00, 4914.39it/s]
+Determining gene cluster homologous hits for 1000 genomes
+  0%|          | 0/1000 [00:00<?, ?it/s] 39%|███▉      | 392/1000 [00:00<00:00, 3844.93it/s]100%|██████████| 1000/1000 [00:00<00:00, 1681.93it/s]100%|██████████| 1000/1000 [00:00<00:00, 1800.10it/s]
+Determining gene cluster homologous hits for 191 genomes
+  0%|          | 0/191 [00:00<?, ?it/s]100%|██████████| 191/191 [00:00<00:00, 423.47it/s]100%|██████████| 191/191 [00:00<00:00, 423.19it/s]
+--------------------
+Step 5
+--------------------
+Create overview plots + spreadsheets showing homology of candidate gene clusters to queries.
+Done running fai!
+Final results can be found at:
+/workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/zol_v1.5.10_analysis/fai_Results_v2/Final_Results/
+	Command being timed: "fai -pq key_protein_queries.faa -m 1.0 -e 1e-5 -sct 0.0 -f 25000 -o fai_Results_v2/ -tg prepTG_SD_v1.5.10_DB/ -c 50 -mgd 15 -ds mid-sensitive"
+	User time (seconds): 15592.13
+	System time (seconds): 516.81
+	Percent of CPU this job got: 2611%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:16.78
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 11659164
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 23967597
+	Voluntary context switches: 93542
+	Involuntary context switches: 45303
+	Swaps: 0
+	File system inputs: 4175200
+	File system outputs: 2950344
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

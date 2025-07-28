@@ -1,0 +1,13 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /workspace/local/rauf/zol_development/benchmark/gator_gc_env/lib/python3.9/site-packages/gator_gc/flat/modular_domains.hmmdb
+# Target file:     /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/gator-gc_analysis/gator-gc_rpp_Results/all_merged_queries_il1ud7qs.faa
+# Option settings: hmmsearch -o /dev/null --domtblout /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/gator-gc_analysis/gator-gc_rpp_Results/all_merged_queries__b3qz7mh.domtbl --noali --domE 0.0001 --cpu 50 /workspace/local/rauf/zol_development/benchmark/gator_gc_env/lib/python3.9/site-packages/gator_gc/flat/modular_domains.hmmdb /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/gator-gc_analysis/gator-gc_rpp_Results/all_merged_queries_il1ud7qs.faa 
+# Current dir:     /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/gator-gc_analysis
+# Date:            Sun Jul 20 22:11:23 2025
+# [ok]
