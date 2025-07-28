@@ -85,7 +85,7 @@ We can also run a more detailed analysis using zol on the PKS gene cluster examp
 
 zol allows for determining de novo ortholog groups, including domain-resolution ortholog groups. We can run zol in `-dom` mode so it doesn’t get stuck on multiple sequence alignments of giant multi-domain PKS sequences. But here we just run zol without `-dom` mode on the top six gene clusters in terms of similarity to the query proteins. Note, 25 kb flanking context was included in their extraction:
 
-<img width="382" height="199" alt="image" src="https://github.com/user-attachments/assets/c391d739-4fd8-4845-8152-15dacbd58c7e" />
+<img width="764" height="398" alt="image" src="https://github.com/user-attachments/assets/c391d739-4fd8-4845-8152-15dacbd58c7e" />
 
 ### Additional minor comments on zol suite references in the GATOR-GC manuscript
 
