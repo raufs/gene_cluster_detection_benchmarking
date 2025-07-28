@@ -43,9 +43,14 @@ For this benchmarking, we used v1.0.0 of GATOR-GC, v1.3.20 of cblaster, and vers
 
 After consideration of the algorithms for the three software packages, for the FK family query search example we ignored the use of optional proteins and only used the required proteins. While all three software can take optional proteins and similarly annotate their presence in detected gene clusters, what actually mattered for gene cluster detection in the GATOR-GC manuscript benchmarking setup were the four required proteins in our understanding. We also adjusted the parameters for cblaster and fai to better match the loose searching criteria required by GATOR-GC (namely setting maximum E-value to 1e-5). While cblaster also supports altering coverage/identity cutoffs, because PKS genes have multiple domains which complicates use of these parameters, we set relevant cutoffs to 0. The parameter `--hitlist_size` in cblaster was also increased to 1,000,000. In addition, because GATOR-GC creates some additional visualizations to make it more comparable to runtimes of cblaster search + extract_clusters and fai we requested that GATOR-GC skip creating some optional plotting via issuing the arguments `-nc -nn`. Also, since both GATOR-GC and fai account for intermediate genes, cblaster was run with the `-ig` flag and the `--maximum_clusters` set to 1,000,000 to perform this for all gene clusters identified. If you look at results of GATOR-GC and compare them to equivalents in the comparator programs - you will find that the available results to mostly match. For conservation analyses, we provide pretty similar data in the consolidated spreadsheet produced by fai and cblaster search provides this as its main tabular result file. GATOR-GC assesses conservation for each gene cluster identified individually and this results in some additional time - so we try to mark the time it took to get to simply the extraction of homologous gene clusters. One reason cblaster was at a slight disadvantage for timing was that it didn’t offer "default" sensitivity for DIAMOND blastp, similar to earlier fai versions (<v1.6.1), thus we used “mid-sensitive” to best match the use of `default` DIAMOND sensitivity for them. Finally, while fai was run with `--draft-mode` in the GATOR-GC manuscript, we did not use it because: (1) neither GATOR-GC nor cblaster have an equivalent mode to our knowledge and (2) it is not necessary since there are only four required proteins and for `--draft-mode` to take effect there needs to be at least six proteins in the query. We can improve documentation around point (2). 
 
+For the FK search, we used 15 kb or 15 genes as the max distance separating required genes in candidate homologous gene clusters and requested 25 kb flanking contexts, similar to the GATOR-GC manuscript. For searching for the translational-operon, we allowed for only a distance of up to 5 kb or 5 genes between required proteins and requested only genes within 5 kb contexts be reported.
+
 ### Preparing databases:
 
 The first step to construct a database of target genomes is performed by distinct programs/modules in each of the three packages: pre-gator-gc, cblaster makedb, and prepTG.
+
+<img width="2156" height="700" alt="image" src="https://github.com/user-attachments/assets/ce412028-9234-4d67-9f0c-00a735bd2d7e" />
+
 
 The exact commands we used were the following, can be found in subdirectories `database_creation/` within timing commands to measure resource usage. 
 
@@ -56,13 +61,17 @@ The exact commands we used were the following, can be found in subdirectories `d
 
 ### Targeted searching for FK (PKS) gene clusters
 
+<img width="1122" height="666" alt="image" src="https://github.com/user-attachments/assets/b2f93716-d3c9-4a1f-8c15-3ffc60446f03" />
+
 The exact commands we used were the following, can be found in subdirectories `translation_operon_search/` within timing commands to measure resource usage.
 
 **Notes**:
 - `cblaster search` only took ~16-18 minutes and `cblaster extract_clusters` took ~7-8 minutes.
 - `GATOR-GC` should be even slightly faster - we just could not measure how fast it created only the window gene cluster files based on timestamps of files given the short runtime.
 
-### Targeted searching for a highly conserved ribosomal gene cluster amongst _Streptomyces_
+### Targeted searching for a highly conserved translation-associated operon amongst _Streptomyces_
+
+<img width="1080" height="644" alt="image" src="https://github.com/user-attachments/assets/a1c69216-1feb-4095-8aae-73c63ba18701" />
 
 **Notes**:
 - cblaster search took over 30 hours for cblaster search alone - mainly due to time needed for extracting intermediate genes via the `--ig` option. cblaster extract_clusters was not attempted. cblaster 
@@ -72,7 +81,11 @@ The exact commands we used were the following, can be found in subdirectories `t
 
 We can also run a more detailed analysis using zol on the PKS gene cluster example. A comprehensive analysis is not recommended here and we instead recommend users select gene clusters which are more closely related to the query prior to running zol. This assessment can be done from the fai results, for instance we see the first six gene clusters detected are quite similar to the query and there is a drop off after:
 
+<img width="306" height="165" alt="image" src="https://github.com/user-attachments/assets/1201dc95-081c-4376-b37a-fc7fb3525c89" />
+
 zol allows for determining de novo ortholog groups, including domain-resolution ortholog groups. We can run zol in `-dom` mode so it doesn’t get stuck on multiple sequence alignments of giant multi-domain PKS sequences. But here we just run zol without `-dom` mode on the top six gene clusters in terms of similarity to the query proteins. Note, 25 kb flanking context was included in their extraction:
+
+<img width="382" height="199" alt="image" src="https://github.com/user-attachments/assets/c391d739-4fd8-4845-8152-15dacbd58c7e" />
 
 ### Additional minor comments on zol suite references in the GATOR-GC manuscript
 
