@@ -1,0 +1,37 @@
+2025-07-24 04:14:38 - INFO - Running fai version 1.6.3
+2025-07-24 04:14:38 - INFO - Saving parameters for future records.
+2025-07-24 04:14:38 - INFO - Done saving parameters!
+2025-07-24 04:14:38 - INFO - Beginning fai searches using protein queries FASTA file at: key_protein_queries.faa
+2025-07-24 04:14:38 - INFO - --------------------
+Step 1
+--------------------
+Getting protein sequences of known gene-cluster instance(s).
+2025-07-24 04:14:39 - INFO - You are using a database created after v1.6.0, attempting to process assuming this is the case...
+2025-07-24 04:14:39 - INFO - --------------------
+Step 2
+--------------------
+Running DIAMOND BLASTp and Processing Results.
+2025-07-24 04:19:44 - INFO - Successfully ran: diamond blastp --ignore-warnings --threads 50 --query /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/zol_v1.6.3_analysis/fai_sd_Results/Processing_Queries/NR_Reference_Query.faa --db /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/zol_v1.6.3_analysis/prepTG_SD_v1.6.3_DB/Target_Genomes_DB.dmnd --outfmt 6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qlen slen -k0 --out /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/zol_v1.6.3_analysis/fai_sd_Results/DIAMOND_Analysis/DIAMOND_Results.txt --evalue 1e-05
+2025-07-24 04:19:48 - INFO - Successfully ran: /workspace/local/rauf/zol_development/benchmark/bioconda_zol_v1.6.3/bin/splitDiamondResultsForFai /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/zol_v1.6.3_analysis/fai_sd_Results/DIAMOND_Analysis/DIAMOND_Results.txt /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/zol_v1.6.3_analysis/fai_sd_Results/DIAMOND_Analysis/Sample_to_Listing.txt
+2025-07-24 04:19:50 - INFO - --------------------
+Step 3
+--------------------
+Preliminary filtering of target genomes for candidates potentially
+harboring a gene cluster of interest.
+2025-07-24 04:19:50 - INFO - Will be considering 74 of 6191 target genomes as candidates for harboring the gene cluster of interest.
+2025-07-24 04:19:50 - INFO - --------------------
+Step 4
+--------------------
+Identifying homologous gene-cluster segments.
+2025-07-24 04:19:50 - INFO - Current multiprocessing start method: fork
+2025-07-24 04:19:50 - INFO - Platform: Linux
+2025-07-24 04:19:50 - INFO - Python version: 3.10.18
+2025-07-24 04:19:51 - INFO - Delineating gene clusters for 74 genomes determined as candidates for potential carriage.
+2025-07-24 04:19:55 - INFO - --------------------
+Step 5
+--------------------
+Create overview plots + spreadsheets showing homology of candidate gene clusters to queries.
+2025-07-24 04:19:56 - INFO - Successfully ran: Rscript /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/zol_v1.6.3_analysis/fai_sd_Results/Plotting_Files/plotTinyAAI.R
+2025-07-24 04:19:56 - INFO - Done running fai!
+Final results can be found at: 
+/workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/zol_v1.6.3_analysis/fai_sd_Results/Final_Results/

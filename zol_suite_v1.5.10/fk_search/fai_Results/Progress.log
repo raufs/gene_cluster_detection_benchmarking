@@ -1,0 +1,43 @@
+2025-07-24 19:06 - INFO - Running fai version 1.5.10
+2025-07-24 19:06 - INFO - Saving parameters for future records.
+2025-07-24 19:06 - INFO - Done saving parameters!
+2025-07-24 19:06 - INFO - Beginning fai searches using protein queries FASTA file at: key_protein_queries.faa
+2025-07-24 19:06 - INFO - 
+--------------------
+Step 1
+--------------------
+Getting protein sequences of known gene-cluster instance(s).
+2025-07-24 19:06 - INFO - 
+--------------------
+Step 2
+--------------------
+Running DIAMOND BLASTp and Processing Results.
+2025-07-24 19:11 - INFO - Successfully ran: diamond blastp --ignore-warnings --threads 50 --mid-sensitive --query /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/zol_v1.5.10_analysis/fai_Results/Processing_Queries/NR_Reference_Query.faa --db /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/zol_v1.5.10_analysis/prepTG_SD_v1.5.10_DB/Target_Genomes_DB.dmnd --outfmt 6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qlen slen -k0 --out /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/zol_v1.5.10_analysis/fai_Results/DIAMOND_Analysis/DIAMOND_Results.txt --evalue 1e-05
+2025-07-24 19:11 - INFO - Successfully ran: /workspace/local/rauf/zol_development/benchmark/zol_v1.5.10_env/bin/splitDiamondResultsForFai /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/zol_v1.5.10_analysis/fai_Results/DIAMOND_Analysis/DIAMOND_Results.txt /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/zol_v1.5.10_analysis/fai_Results/DIAMOND_Analysis/Sample_to_Listing.txt
+2025-07-24 19:11 - INFO - 
+--------------------
+Step 3
+--------------------
+Loading target genomes database prepared by prepTG.
+2025-07-24 19:13 - INFO - 
+--------------------
+Step 4
+--------------------
+Identifying homologous gene-cluster segments.
+2025-07-24 19:13 - INFO - Determining gene cluster homologous hits for 1000 genomes
+2025-07-24 19:13 - INFO - Determining gene cluster homologous hits for 1000 genomes
+2025-07-24 19:14 - INFO - Determining gene cluster homologous hits for 1000 genomes
+2025-07-24 19:14 - INFO - Determining gene cluster homologous hits for 1000 genomes
+2025-07-24 19:15 - INFO - Determining gene cluster homologous hits for 1000 genomes
+2025-07-24 19:15 - INFO - Determining gene cluster homologous hits for 1000 genomes
+2025-07-24 19:15 - INFO - Determining gene cluster homologous hits for 191 genomes
+2025-07-24 19:16 - INFO - 
+--------------------
+Step 5
+--------------------
+Create overview plots + spreadsheets showing homology of candidate gene clusters to queries.
+2025-07-24 19:16 - INFO - Successfully ran: Rscript /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/zol_v1.5.10_analysis/fai_Results/Plotting_Files/plotTinyAAI.R
+2025-07-24 19:16 - INFO - Done running fai!
+Final results can be found at:
+/workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/zol_v1.5.10_analysis/fai_Results/Final_Results/
+

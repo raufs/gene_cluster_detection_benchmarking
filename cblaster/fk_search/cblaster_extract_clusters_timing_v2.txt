@@ -1,0 +1,31 @@
+Importing genomicsqlite failed, falling back to SQLite3
+[13:42:23] INFO - Starting cblaster plotting of clusters using clinker
+[13:42:23] INFO - Loading session from: /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/cblaster_search_session_v2.json
+[13:42:29] INFO - Extracting clusters that match the filters
+[13:42:29] INFO - Extracted 30 clusters.
+[13:42:29] INFO - Writing genbank files
+[13:49:45] INFO - Clusters have been written to /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/cblaster_extract_results_v2
+[13:49:45] INFO - Done!
+	Command being timed: "cblaster extract_clusters cblaster_search_session_v2.json -o cblaster_extract_results_v2/"
+	User time (seconds): 153.26
+	System time (seconds): 300.30
+	Percent of CPU this job got: 102%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 7:22.66
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 711500
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 580544
+	Voluntary context switches: 168
+	Involuntary context switches: 580
+	Swaps: 0
+	File system inputs: 512
+	File system outputs: 12744
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

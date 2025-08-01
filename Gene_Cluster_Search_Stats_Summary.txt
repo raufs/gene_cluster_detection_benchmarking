@@ -1,0 +1,6 @@
+color	method	time_minutes	gc_identified
+zol	fai v1.5.10	10.27	30
+zol	fai v1.6.3	2.39	30
+zol	fai v1.6.3 "--sd"	4.94	30
+gator-gc	gator-gc	1.91	30
+cblaster	cblaster	24.74	30

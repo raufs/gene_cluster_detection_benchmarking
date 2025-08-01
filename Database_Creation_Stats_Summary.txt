@@ -1,0 +1,6 @@
+color	method	time_minutes	final_diskspace_gb	max_memory_gb
+cblaster	cblaster	23.85	190	81.73#101+(gzipped 31 GB; ungzipped 89 GB)
+gator-gc	pre-gator-gc	32.01	127	4.31#38+89
+zol	prepTG v1.5.10	42.22	126	2.9
+zol	prepTG v1.6.3	152.32	47	49.9
+zol	prepTG v1.6.3 "--sd"	46.77	56	8.61

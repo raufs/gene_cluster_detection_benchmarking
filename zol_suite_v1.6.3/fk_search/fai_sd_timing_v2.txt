@@ -1,0 +1,53 @@
+You are using a database created after v1.6.0, attempting to process assuming this is the case...
+Running fai version 1.6.3
+Beginning fai searches using protein queries FASTA file at: key_protein_queries.faa
+--------------------
+Step 1
+--------------------
+Getting protein sequences of known gene-cluster instance(s).
+--------------------
+Step 2
+--------------------
+Running DIAMOND BLASTp and Processing Results.
+--------------------
+Step 3
+--------------------
+Preliminary filtering of target genomes for candidates potentially
+harboring a gene cluster of interest.
+Will be considering 74 of 6191 target genomes as candidates for harboring the gene cluster of interest.
+--------------------
+Step 4
+--------------------
+Identifying homologous gene-cluster segments.
+Delineating gene clusters for 74 genomes determined as candidates for potential carriage.
+  0%|          | 0/74 [00:00<?, ?it/s] 12%|█▏        | 9/74 [00:00<00:00, 86.63it/s] 24%|██▍       | 18/74 [00:00<00:01, 53.73it/s] 46%|████▌     | 34/74 [00:00<00:00, 88.85it/s] 61%|██████    | 45/74 [00:00<00:00, 90.47it/s] 76%|███████▌  | 56/74 [00:02<00:01, 13.55it/s] 85%|████████▌ | 63/74 [00:03<00:00, 11.79it/s] 92%|█████████▏| 68/74 [00:04<00:00,  9.84it/s] 97%|█████████▋| 72/74 [00:04<00:00, 10.06it/s]100%|██████████| 74/74 [00:04<00:00, 15.18it/s]
+--------------------
+Step 5
+--------------------
+Create overview plots + spreadsheets showing homology of candidate gene clusters to queries.
+Done running fai!
+Final results can be found at: 
+/workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/zol_v1.6.3_analysis/fai_sd_Results_v2/Final_Results/
+	Command being timed: "fai -pq key_protein_queries.faa -m 1.0 -e 1e-5 -sct 0.0 -f 25000 -o fai_sd_Results_v2/ -tg prepTG_SD_v1.6.3_DB/ -c 50 -mgd 15 -mdg 4 -ds default"
+	User time (seconds): 6149.01
+	System time (seconds): 63.55
+	Percent of CPU this job got: 2301%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:29.99
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4823652
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 12218926
+	Voluntary context switches: 46990
+	Involuntary context switches: 17759
+	Swaps: 0
+	File system inputs: 35549008
+	File system outputs: 327656
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

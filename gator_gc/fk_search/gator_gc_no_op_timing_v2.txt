@@ -1,0 +1,165 @@
+[1] - 2025-07-24 04:45:58,608 - INFO - Running Diamond with /workspace/local/rauf/zol_development/benchmark/streptomyces_gtdb226/gator-gc_analysis/gator-gc_noOptional_Results_v2/non_modular_queries_wd4_3kqy.faa against pre-gator-gc_DB/a.dmnd
+[2] - 2025-07-24 04:47:50,567 - INFO - Concatenated of gator focal scores across deduplicated gator windows created sucessfully in gator-gc_noOptional_Results_v2/concatenated_scores
+[3] - 2025-07-24 04:47:50,688 - WARNING - findfont: Font family 'Arial' not found.
+[4] - 2025-07-24 04:47:50,691 - WARNING - findfont: Font family 'Arial' not found.
+[5] - 2025-07-24 04:47:50,693 - WARNING - findfont: Font family 'Arial' not found.
+[6] - 2025-07-24 04:47:50,694 - WARNING - findfont: Font family 'Arial' not found.
+[7] - 2025-07-24 04:47:50,696 - WARNING - findfont: Font family 'Arial' not found.
+[8] - 2025-07-24 04:47:50,697 - WARNING - findfont: Font family 'Arial' not found.
+[9] - 2025-07-24 04:47:50,698 - WARNING - findfont: Font family 'Arial' not found.
+[10] - 2025-07-24 04:47:50,700 - WARNING - findfont: Font family 'Arial' not found.
+[11] - 2025-07-24 04:47:50,701 - WARNING - findfont: Font family 'Arial' not found.
+[12] - 2025-07-24 04:47:50,703 - WARNING - findfont: Font family 'Arial' not found.
+[13] - 2025-07-24 04:47:50,704 - WARNING - findfont: Font family 'Arial' not found.
+[14] - 2025-07-24 04:47:50,705 - WARNING - findfont: Font family 'Arial' not found.
+[15] - 2025-07-24 04:47:50,707 - WARNING - findfont: Font family 'Arial' not found.
+[16] - 2025-07-24 04:47:50,708 - WARNING - findfont: Font family 'Arial' not found.
+[17] - 2025-07-24 04:47:50,709 - WARNING - findfont: Font family 'Arial' not found.
+[18] - 2025-07-24 04:47:50,711 - WARNING - findfont: Font family 'Arial' not found.
+[19] - 2025-07-24 04:47:50,712 - WARNING - findfont: Font family 'Arial' not found.
+[20] - 2025-07-24 04:47:50,714 - WARNING - findfont: Font family 'Arial' not found.
+[21] - 2025-07-24 04:47:50,715 - WARNING - findfont: Font family 'Arial' not found.
+[22] - 2025-07-24 04:47:50,717 - WARNING - findfont: Font family 'Arial' not found.
+[23] - 2025-07-24 04:47:50,720 - WARNING - findfont: Font family 'Arial' not found.
+[24] - 2025-07-24 04:47:50,722 - WARNING - findfont: Font family 'Arial' not found.
+[25] - 2025-07-24 04:47:50,725 - WARNING - findfont: Font family 'Arial' not found.
+[26] - 2025-07-24 04:47:50,727 - WARNING - findfont: Font family 'Arial' not found.
+[27] - 2025-07-24 04:47:50,730 - WARNING - findfont: Font family 'Arial' not found.
+[28] - 2025-07-24 04:47:50,732 - WARNING - findfont: Font family 'Arial' not found.
+[29] - 2025-07-24 04:47:50,735 - WARNING - findfont: Font family 'Arial' not found.
+[30] - 2025-07-24 04:47:50,738 - WARNING - findfont: Font family 'Arial' not found.
+[31] - 2025-07-24 04:47:50,740 - WARNING - findfont: Font family 'Arial' not found.
+[32] - 2025-07-24 04:47:50,743 - WARNING - findfont: Font family 'Arial' not found.
+[33] - 2025-07-24 04:47:50,745 - WARNING - findfont: Font family 'Arial' not found.
+[34] - 2025-07-24 04:47:50,748 - WARNING - findfont: Font family 'Arial' not found.
+[35] - 2025-07-24 04:47:50,751 - WARNING - findfont: Font family 'Arial' not found.
+[36] - 2025-07-24 04:47:50,753 - WARNING - findfont: Font family 'Arial' not found.
+[37] - 2025-07-24 04:47:50,756 - WARNING - findfont: Font family 'Arial' not found.
+[38] - 2025-07-24 04:47:50,758 - WARNING - findfont: Font family 'Arial' not found.
+[39] - 2025-07-24 04:47:50,760 - WARNING - findfont: Font family 'Arial' not found.
+[40] - 2025-07-24 04:47:50,792 - WARNING - findfont: Font family 'Arial' not found.
+[41] - 2025-07-24 04:47:50,792 - WARNING - findfont: Font family 'Arial' not found.
+[42] - 2025-07-24 04:47:50,793 - WARNING - findfont: Font family 'Arial' not found.
+[43] - 2025-07-24 04:47:50,794 - WARNING - findfont: Font family 'Arial' not found.
+[44] - 2025-07-24 04:47:50,795 - WARNING - findfont: Font family 'Arial' not found.
+[45] - 2025-07-24 04:47:50,796 - WARNING - findfont: Font family 'Arial' not found.
+[46] - 2025-07-24 04:47:50,797 - WARNING - findfont: Font family 'Arial' not found.
+[47] - 2025-07-24 04:47:50,798 - WARNING - findfont: Font family 'Arial' not found.
+[48] - 2025-07-24 04:47:50,799 - WARNING - findfont: Font family 'Arial' not found.
+[49] - 2025-07-24 04:47:50,800 - WARNING - findfont: Font family 'Arial' not found.
+[50] - 2025-07-24 04:47:50,800 - WARNING - findfont: Font family 'Arial' not found.
+[51] - 2025-07-24 04:47:50,801 - WARNING - findfont: Font family 'Arial' not found.
+[52] - 2025-07-24 04:47:50,802 - WARNING - findfont: Font family 'Arial' not found.
+[53] - 2025-07-24 04:47:50,803 - WARNING - findfont: Font family 'Arial' not found.
+[54] - 2025-07-24 04:47:50,804 - WARNING - findfont: Font family 'Arial' not found.
+[55] - 2025-07-24 04:47:50,805 - WARNING - findfont: Font family 'Arial' not found.
+[56] - 2025-07-24 04:47:50,806 - WARNING - findfont: Font family 'Arial' not found.
+[57] - 2025-07-24 04:47:50,806 - WARNING - findfont: Font family 'Arial' not found.
+[58] - 2025-07-24 04:47:50,807 - WARNING - findfont: Font family 'Arial' not found.
+[59] - 2025-07-24 04:47:50,808 - WARNING - findfont: Font family 'Arial' not found.
+[60] - 2025-07-24 04:47:50,819 - WARNING - findfont: Font family 'Arial' not found.
+[61] - 2025-07-24 04:47:50,830 - WARNING - findfont: Font family 'Arial' not found.
+[62] - 2025-07-24 04:47:50,831 - WARNING - findfont: Font family 'Arial' not found.
+[63] - 2025-07-24 04:47:50,831 - WARNING - findfont: Font family 'Arial' not found.
+[64] - 2025-07-24 04:47:50,831 - WARNING - findfont: Font family 'Arial' not found.
+[65] - 2025-07-24 04:47:50,835 - WARNING - findfont: Font family 'Arial' not found.
+[66] - 2025-07-24 04:47:50,908 - WARNING - findfont: Font family 'Arial' not found.
+[67] - 2025-07-24 04:47:50,908 - WARNING - findfont: Font family 'Arial' not found.
+[68] - 2025-07-24 04:47:50,910 - WARNING - findfont: Font family 'Arial' not found.
+[69] - 2025-07-24 04:47:50,911 - WARNING - findfont: Font family 'Arial' not found.
+[70] - 2025-07-24 04:47:50,912 - WARNING - findfont: Font family 'Arial' not found.
+[71] - 2025-07-24 04:47:50,912 - WARNING - findfont: Font family 'Arial' not found.
+[72] - 2025-07-24 04:47:50,913 - WARNING - findfont: Font family 'Arial' not found.
+[73] - 2025-07-24 04:47:50,914 - WARNING - findfont: Font family 'Arial' not found.
+[74] - 2025-07-24 04:47:50,915 - WARNING - findfont: Font family 'Arial' not found.
+[75] - 2025-07-24 04:47:50,916 - WARNING - findfont: Font family 'Arial' not found.
+[76] - 2025-07-24 04:47:50,917 - WARNING - findfont: Font family 'Arial' not found.
+[77] - 2025-07-24 04:47:50,918 - WARNING - findfont: Font family 'Arial' not found.
+[78] - 2025-07-24 04:47:50,918 - WARNING - findfont: Font family 'Arial' not found.
+[79] - 2025-07-24 04:47:50,919 - WARNING - findfont: Font family 'Arial' not found.
+[80] - 2025-07-24 04:47:50,920 - WARNING - findfont: Font family 'Arial' not found.
+[81] - 2025-07-24 04:47:50,921 - WARNING - findfont: Font family 'Arial' not found.
+[82] - 2025-07-24 04:47:50,922 - WARNING - findfont: Font family 'Arial' not found.
+[83] - 2025-07-24 04:47:50,923 - WARNING - findfont: Font family 'Arial' not found.
+[84] - 2025-07-24 04:47:50,924 - WARNING - findfont: Font family 'Arial' not found.
+[85] - 2025-07-24 04:47:50,924 - WARNING - findfont: Font family 'Arial' not found.
+[86] - 2025-07-24 04:47:50,940 - WARNING - findfont: Font family 'Arial' not found.
+[87] - 2025-07-24 04:47:50,980 - WARNING - findfont: Font family 'Arial' not found.
+[88] - 2025-07-24 04:47:50,981 - WARNING - findfont: Font family 'Arial' not found.
+[89] - 2025-07-24 04:47:50,981 - WARNING - findfont: Font family 'Arial' not found.
+[90] - 2025-07-24 04:47:50,981 - WARNING - findfont: Font family 'Arial' not found.
+[91] - 2025-07-24 04:47:50,987 - WARNING - findfont: Font family 'Arial' not found.
+[92] - 2025-07-24 04:47:50,997 - WARNING - findfont: Font family 'Arial' not found.
+[93] - 2025-07-24 04:47:50,998 - WARNING - findfont: Font family 'Arial' not found.
+[94] - 2025-07-24 04:47:51,002 - WARNING - findfont: Font family 'Arial' not found.
+[95] - 2025-07-24 04:47:51,003 - WARNING - findfont: Font family 'Arial' not found.
+[96] - 2025-07-24 04:47:51,004 - WARNING - findfont: Font family 'Arial' not found.
+[97] - 2025-07-24 04:47:51,006 - WARNING - findfont: Font family 'Arial' not found.
+[98] - 2025-07-24 04:47:51,007 - WARNING - findfont: Font family 'Arial' not found.
+[99] - 2025-07-24 04:47:51,008 - WARNING - findfont: Font family 'Arial' not found.
+[100] - 2025-07-24 04:47:51,010 - WARNING - findfont: Font family 'Arial' not found.
+[101] - 2025-07-24 04:47:51,011 - WARNING - findfont: Font family 'Arial' not found.
+[102] - 2025-07-24 04:47:51,012 - WARNING - findfont: Font family 'Arial' not found.
+[103] - 2025-07-24 04:47:51,014 - WARNING - findfont: Font family 'Arial' not found.
+[104] - 2025-07-24 04:47:51,015 - WARNING - findfont: Font family 'Arial' not found.
+[105] - 2025-07-24 04:47:51,017 - WARNING - findfont: Font family 'Arial' not found.
+[106] - 2025-07-24 04:47:51,018 - WARNING - findfont: Font family 'Arial' not found.
+[107] - 2025-07-24 04:47:51,019 - WARNING - findfont: Font family 'Arial' not found.
+[108] - 2025-07-24 04:47:51,021 - WARNING - findfont: Font family 'Arial' not found.
+[109] - 2025-07-24 04:47:51,022 - WARNING - findfont: Font family 'Arial' not found.
+[110] - 2025-07-24 04:47:51,024 - WARNING - findfont: Font family 'Arial' not found.
+[111] - 2025-07-24 04:47:51,025 - WARNING - findfont: Font family 'Arial' not found.
+[112] - 2025-07-24 04:47:51,030 - WARNING - findfont: Font family 'Arial' not found.
+[113] - 2025-07-24 04:47:51,030 - WARNING - findfont: Font family 'Arial' not found.
+[114] - 2025-07-24 04:47:51,034 - WARNING - findfont: Font family 'Arial' not found.
+[115] - 2025-07-24 04:47:51,035 - WARNING - findfont: Font family 'Arial' not found.
+[116] - 2025-07-24 04:47:51,035 - WARNING - findfont: Font family 'Arial' not found.
+[117] - 2025-07-24 04:47:51,035 - WARNING - findfont: Font family 'Arial' not found.
+[118] - 2025-07-24 04:47:51,036 - WARNING - findfont: Font family 'Arial' not found.
+[119] - 2025-07-24 04:47:51,037 - WARNING - findfont: Font family 'Arial' not found.
+[120] - 2025-07-24 04:47:51,037 - WARNING - findfont: Font family 'Arial' not found.
+[121] - 2025-07-24 04:47:51,038 - WARNING - findfont: Font family 'Arial' not found.
+[122] - 2025-07-24 04:47:51,040 - WARNING - findfont: Font family 'Arial' not found.
+[123] - 2025-07-24 04:47:51,041 - WARNING - findfont: Font family 'Arial' not found.
+[124] - 2025-07-24 04:47:51,042 - INFO - Execution time: 2.0 minutes
+
+
+     -\ ---\--\ -------\ ----\ ---\--\ ---\ --\ ----\ ----\--------\ /--- 
+   /--/ ---/--/ -------/ ----/ ---/--/ ---/ --/ ----/ ----/--------/ \----\ 
+  ________   _____  __________________  __________         _________________  
+ /  _____/  /  _  \ \__    ___/_____  \ \______   \       /  _____/\_   ___ \ 
+/   \  ___ /  /_\  \  |    |   /   |   \ |       _/ _____    \  ___/    \  \/ 
+\    \_\  \    |    \ |    |  /    |    \|    |   \/_____/    \_\  \     \_____
+ \______  /____|__  / |____|  \_______  /|____|_  /       \______  /\_______  /
+        \/        \/                  \/        \/               \/         \/ 
+    -----\--\ -------\ ----\ ---\--\ ---\ --\ ------\ ----\---------\ /----
+    \----/--/ -------/ ----/ ---/--/ ---/ --/ ------/ ----/---------/ \----/
+
+GATOR-GC: Genomic Assessment Tool for Orthologous Regions and Gene Clusters
+Developer: José D. D. Cediel-Becerra
+Afiliation: Microbiology & Cell Science Deparment, University of Florida
+Please contact José at jcedielbecerra@ufl.edu if you have any issues
+Version:v1.0.0
+	Command being timed: "gator-gc -rq key_protein_queries.faa -nc -nn -idt 35 -rd 15 -we 25 -o gator-gc_noOptional_Results_v2/ -t 50 -d pre-gator-gc_DB/ -g prepTG_Results_for_GenBank_Creation/Genomic_Genbanks_Additional/"
+	User time (seconds): 1458.09
+	System time (seconds): 69.50
+	Percent of CPU this job got: 1244%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:02.69
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4113588
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 36
+	Minor (reclaiming a frame) page faults: 10039813
+	Voluntary context switches: 82573
+	Involuntary context switches: 474303
+	Swaps: 0
+	File system inputs: 4007344
+	File system outputs: 156248
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
